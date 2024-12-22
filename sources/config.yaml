@@ -7,8 +7,7 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - RadioCanadaDisplay.glyphs
-  - RadioCanadaDisplay-Italic.glyphs
+  - WinkySans.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Radio Canada Display"
@@ -63,43 +62,23 @@ buildOTF: false
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  RadioCanadaDisplay[wght].ttf:
+  WinkySans[wght].ttf:
   - name: Weight
     tag: wght
     values:
-    - name: Regular
-      value: 400
-      linkedValue: 700
-      flags: 2
-    - name: Medium
-      value: 500
-    - name: SemiBold
-      value: 600
-    - name: Bold
-      value: 700
-  - name: Italic
-    tag: ital
-    values:
-    - name: Roman
-      value: 0
-      linkedValue: 1
-      flags: 2
-  RadioCanadaDisplay-Italic[wght].ttf:
-  - name: Weight
-    tag: wght
-    values:
-    - name: Regular
-      value: 400
-      linkedValue: 700
-      flags: 2
-    - name: Medium
-      value: 500
-    - name: SemiBold
-      value: 600
-    - name: Bold
-      value: 700
-  - name: Italic
-    tag: ital
-    values:
-    - name: Italic
-      value: 1
+      - name: Light
+        value: 300
+      - name: Regular
+        value: 400
+        linkedValue: 700
+        flags: 2
+      - name: Medium
+        value: 500
+      - name: SemiBold
+        value: 600
+      - name: Bold
+        value: 700
+      - name: ExtraBold
+        value: 800
+      - name: Black
+        value: 900
