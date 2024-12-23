@@ -53,7 +53,7 @@ Don't hesitate to create images!
 
 ## About
 
-Description of you and/or organisation goes here.
+typofactur is a German foundry run by the graphic designer Simon Atzbach.
 
 ## Building
 
