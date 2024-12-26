@@ -60,7 +60,22 @@ code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Arin
 name = Uppercase;
 }
 );
-date = "2024-12-22 11:43:24 +0000";
+customParameters = (
+{
+name = "Name Table Entry";
+value = "13; This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2024-12-26 01:11:21 +0000";
 familyName = "Winky Sans";
 featurePrefixes = (
 {
@@ -288,6 +303,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
 }
 );
 iconName = Light;
@@ -59691,6 +59738,435 @@ width = 510;
 );
 note = ogonek;
 unicode = 808;
+},
+{
+glyphname = dieresis;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+width = 480;
+}
+);
+unicode = 168;
+},
+{
+glyphname = dotaccent;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = dotaccentcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = dotaccentcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dotaccentcomb;
+}
+);
+width = 480;
+}
+);
+unicode = 729;
+},
+{
+glyphname = grave;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 96;
+},
+{
+glyphname = acute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 180;
+},
+{
+glyphname = hungarumlaut;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 480;
+}
+);
+unicode = 733;
+},
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 710;
+},
+{
+glyphname = caron;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 711;
+},
+{
+glyphname = breve;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 405;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 405;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 405;
+}
+);
+unicode = 728;
+},
+{
+glyphname = ring;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 730;
+},
+{
+glyphname = tilde;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 732;
+},
+{
+glyphname = macron;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = macroncomb;
+}
+);
+width = 500;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = macroncomb;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = macroncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 175;
+},
+{
+glyphname = cedilla;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 480;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 480;
+}
+);
+unicode = 184;
+},
+{
+glyphname = ogonek;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 510;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 510;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 510;
+}
+);
+unicode = 731;
 }
 );
 instances = (
@@ -60253,15 +60729,6 @@ Thin
 ";
 properties = (
 {
-key = copyrights;
-values = (
-{
-language = ENG;
-value = "Copyright (c) typofactur, 2024. All rights reserved.";
-}
-);
-},
-{
 key = designers;
 values = (
 {
@@ -60271,34 +60738,34 @@ value = "Simon Atzbach";
 );
 },
 {
-key = familyNames;
+key = designerURL;
+value = "https://typofactur.de";
+},
+{
+key = licenses;
 values = (
 {
-language = ENG;
-value = "Winky Sans";
+language = dflt;
+value = "SIL Open Font License, Version 1.1. ";
 }
 );
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
 values = (
 {
 language = DEU;
-value = typofactur.de;
+value = typofactur;
 }
 );
 },
 {
 key = manufacturerURL;
 value = "https://typofactur.de";
-},
-{
-key = postscriptFontName;
-value = "Winky Sans VF";
-},
-{
-key = postscriptFullName;
-value = "Winky Sans";
 },
 {
 key = vendorID;
@@ -60379,5 +60846,5 @@ tH = "70";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
