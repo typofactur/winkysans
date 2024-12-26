@@ -27,8 +27,8 @@ familyName: "Winky Sans"
 
 buildVariable: true
 buildStatic: true
-# buildTTF: true
-buildOTF: true
+buildTTF: true
+buildOTF: false
 # buildSmallCap: false
 
 # The next flags control autohinting.
