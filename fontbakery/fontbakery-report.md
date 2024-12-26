@@ -4,99 +4,14 @@ fontbakery version: 0.12.10
 
 
 
-## Experimental checks
-
-These won't break the CI job for now, but will become effective after some time if nobody raises any concern.
 
 
-<details><summary>[1] WinkySans[wght].ttf</summary>
+## Check results
+
+
+
+<details><summary>[10] WinkySans[wght].ttf</summary>
 <div>
-<details>
-    <summary>🔥 <b>FAIL</b> Checking that the typoAscender exceeds the yMax of the /Agrave. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.metrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2.sTypoAscender value should be greater than 863.05, but got 700 instead</p>
- [code: typoAscender]
-
-
-
-</div>
-</details>
-</div>
-</details>
-
-
-
-
-## All other checks
-
-
-
-<details><summary>[14] WinkySans[wght].ttf</summary>
-<div>
-<details>
-    <summary>🔥 <b>FAIL</b> Checking OS/2 usWinAscent & usWinDescent. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.metrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2.usWinDescent value should be equal or greater than 249, but got 200 instead</p>
- [code: descent]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Checking Vertical Metric Linegaps. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.metrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2 sTypoLineGap is not equal to 0.</p>
-<p><em>Overridden</em>: This check was originally a WARN but was
-overridden by the universal profile:
-For Google Fonts, all messages from this check are considered FAILs.</p>
- [code: OS/2]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Checking OS/2 Metrics match hhea Metrics. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.metrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2 sTypoAscender (700) and hhea ascent (1000) must be equal.</p>
- [code: ascender]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>🔥 <b>FAIL</b> Shapes languages in all GF glyphsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.glyphset.html#"></a></summary>
     <div>
@@ -678,24 +593,6 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </details>
 
 <details>
-    <summary>🔥 <b>FAIL</b> Check font follows the Google Fonts vertical metric schema <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.vmetrics.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>OS/2.sTypoLineGap is &quot;300&quot; it should be 0</p>
- [code: bad-OS/2.sTypoLineGap]
-
-
-
-</div>
-</details>
-
-<details>
     <summary>⚠️ <b>WARN</b> Check accent of Lcaron, dcaron, lcaron, tcaron <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
     <div>
 
@@ -741,23 +638,23 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
-
-- Contour 1 point 71 in glyph 'uni0137' has a kink between location wght=300 and location wght=900
+<pre><code>- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
 
 - Contour 1 point 26 in glyph 'eth' has a kink between location wght=300 and location wght=900
 
 - Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
 
+- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
+
 - Contour 0 point 26 in glyph 'numbersign' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
+- Contour 1 point 71 in glyph 'uni0137' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
 
 - Contour 1 point 18 in glyph 'ampersand' has a kink between location wght=300 and location wght=900
 
 - Contour 0 point 61 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
-
-- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -800,9 +697,9 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese</li>
 <li>U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese</li>
@@ -815,19 +712,19 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gunjala-gondi, manichaean, gujarati, siddham, lepcha, thai, cham, nko, new-tai-lue, phags-pa, brahmi, chakma, kaithi, kannada, duployan, kharoshthi, buginese, mahajani, kayah-li, meetei-mayek, tirhuta, balinese, zanabazar-square, lao, rejang, saurashtra, warang-citi, telugu, buhid, mongolian, dogra, mandaic, psalter-pahlavi, hatran, khudawadi, khmer, sinhala, sundanese, tamil, yi, khojki, oriya, tifinagh, masaram-gondi, batak, gurmukhi, grantha, thaana, modi, syriac, hebrew, hanunoo, myanmar, avestan, tagalog, syloti-nagri, bhaiksuki, bengali, arabic, limbu, devanagari, sharada, takri, newa, javanese, malayalam, sogdian, tai-le, tai-tham, tai-viet, tibetan, pahawh-hmong, hanifi-rohingya, tagbanwa</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: gunjala-gondi, manichaean, gujarati, siddham, lepcha, thai, cham, nko, new-tai-lue, phags-pa, brahmi, chakma, kaithi, kannada, duployan, old-hungarian, kharoshthi, buginese, mahajani, kayah-li, meetei-mayek, tirhuta, balinese, zanabazar-square, lao, rejang, saurashtra, warang-citi, telugu, buhid, mongolian, dogra, mandaic, psalter-pahlavi, khudawadi, sinhala, khmer, sundanese, tamil, yi, khojki, oriya, tifinagh, masaram-gondi, batak, gurmukhi, grantha, thaana, modi, syriac, hebrew, hanunoo, myanmar, avestan, tagalog, syloti-nagri, bhaiksuki, bengali, arabic, limbu, devanagari, sharada, takri, newa, javanese, malayalam, sogdian, tai-le, tai-tham, tai-viet, tibetan, pahawh-hmong, hanifi-rohingya, tagbanwa</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: arabic, nko, thaana, phags-pa, syriac, hebrew</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, thaana, phags-pa, syriac, hebrew</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: oriya, avestan, tamil, buhid, warang-citi, myanmar, saurashtra, syloti-nagri, limbu, gurmukhi, bhaiksuki, mahajani, new-tai-lue, sogdian, sharada, brahmi, balinese, chakma, mandaic, khudawadi, manichaean, sundanese, buginese, khmer, kaithi, modi, mongolian, bengali, lepcha, hatran, pahawh-hmong, telugu, gujarati, zanabazar-square, javanese, tirhuta, cham, yi, tagalog, grantha, kharoshthi, meetei-mayek, sinhala, kayah-li, gunjala-gondi, masaram-gondi, phags-pa, syriac, tai-tham, tai-viet, hanunoo, takri, thaana, thai, tibetan, psalter-pahlavi, lao, nko, hebrew, tai-le, siddham, khojki, devanagari, arabic, hanifi-rohingya, tifinagh, newa, duployan, kannada, malayalam, rejang, batak, dogra, tagbanwa</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: oriya, avestan, tamil, buhid, warang-citi, myanmar, saurashtra, syloti-nagri, limbu, gurmukhi, bhaiksuki, mahajani, new-tai-lue, sogdian, sharada, brahmi, balinese, chakma, mandaic, khudawadi, manichaean, old-hungarian, sundanese, buginese, khmer, kaithi, modi, mongolian, bengali, lepcha, telugu, pahawh-hmong, gujarati, zanabazar-square, javanese, tirhuta, cham, yi, tagalog, grantha, kharoshthi, meetei-mayek, sinhala, kayah-li, gunjala-gondi, masaram-gondi, phags-pa, syriac, tai-tham, tai-viet, hanunoo, takri, thaana, thai, tibetan, psalter-pahlavi, lao, nko, hebrew, tai-le, siddham, khojki, devanagari, arabic, hanifi-rohingya, tifinagh, newa, duployan, kannada, malayalam, rejang, batak, dogra, tagbanwa</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: hebrew, arabic, syriac, thaana, phags-pa, nko</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: hebrew, syriac, thaana, phags-pa, nko</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: phags-pa, yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, phags-pa, mongolian</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: chinese-simplified, yi, phags-pa, chinese-traditional, nushu, chinese-hongkong, japanese</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: japanese, yi, chinese-hongkong, nushu, phags-pa, chinese-traditional, chinese-simplified</li>
 <li>U+FB00 LATIN SMALL LIGATURE FF: not included in any glyphset definition</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
@@ -928,8 +825,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 7 | 8 | 98 | 8 | 130 | 0 | 
-| 0% | 0% | 3% | 3% | 39% | 3% | 52% | 0% | 
+| 0 | 0 | 2 | 8 | 98 | 8 | 135 | 0 | 
+| 0% | 0% | 1% | 3% | 39% | 3% | 54% | 0% | 
 
 
 
