@@ -56976,9 +56976,8 @@ note = perthousand;
 unicode = 8240;
 },
 {
-export = 0;
 glyphname = dieresiscomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57180,9 +57179,8 @@ note = dieresis;
 unicode = 776;
 },
 {
-export = 0;
 glyphname = dotaccentcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57321,9 +57319,8 @@ note = dotaccent;
 unicode = 775;
 },
 {
-export = 0;
 glyphname = gravecomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57486,9 +57483,8 @@ note = grave;
 unicode = 768;
 },
 {
-export = 0;
 glyphname = acutecomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57651,9 +57647,8 @@ note = acute;
 unicode = 769;
 },
 {
-export = 0;
 glyphname = hungarumlautcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57891,9 +57886,8 @@ note = hungarumlaut;
 unicode = 779;
 },
 {
-export = 0;
 glyphname = caroncomb.alt;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -57999,9 +57993,8 @@ metricLeft = "=i";
 metricRight = "=i";
 },
 {
-export = 0;
 glyphname = circumflexcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -58200,9 +58193,8 @@ note = circumflex;
 unicode = 770;
 },
 {
-export = 0;
 glyphname = caroncomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -58401,9 +58393,8 @@ note = circumflex;
 unicode = 780;
 },
 {
-export = 0;
 glyphname = brevecomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -58596,9 +58587,8 @@ note = breve;
 unicode = 774;
 },
 {
-export = 0;
 glyphname = ringcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -58815,9 +58805,8 @@ note = ring;
 unicode = 778;
 },
 {
-export = 0;
 glyphname = tildecomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -59031,9 +59020,8 @@ note = tilde;
 unicode = 771;
 },
 {
-export = 0;
 glyphname = macroncomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -59196,9 +59184,8 @@ note = macron;
 unicode = 772;
 },
 {
-export = 0;
 glyphname = commaturnedabovecomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -59269,9 +59256,8 @@ metricRight = "=comma";
 unicode = 786;
 },
 {
-export = 0;
 glyphname = commaaccentcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -59411,9 +59397,8 @@ width = 300;
 unicode = 806;
 },
 {
-export = 0;
 glyphname = cedillacomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
@@ -59636,9 +59621,8 @@ note = cedilla;
 unicode = 807;
 },
 {
-export = 0;
 glyphname = ogonekcomb;
-lastChange = "2024-12-25 20:22:51 +0000";
+lastChange = "2024-12-26 01:40:22 +0000";
 layers = (
 {
 anchors = (
