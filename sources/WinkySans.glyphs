@@ -380,6 +380,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
 }
 );
 id = m005;
@@ -424,6 +456,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
 }
 );
 id = m002;
