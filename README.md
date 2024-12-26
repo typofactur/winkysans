@@ -32,8 +32,14 @@ Description of your font goes here. We recommend to start with a very short pres
 
 Don't hesitate to create images!
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/winkysans_cover.png)
+![Sample Image](documentation/winkysans_alphabet.png)
+![Sample Image](documentation/winkysans_weights.png)
+![Sample Image](documentation/winkysans_fineliner.png)
+![Sample Image](documentation/winkysans_hi.png)
+![Sample Image](documentation/winkysans_casual.png)
+![Sample Image](documentation/winkysans_ink.png)
+![Sample Image](documentation/winkysans_octopus.png)
 
 ## About
 
