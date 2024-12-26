@@ -2,55 +2,8 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"ink
-Aniva Ink
-Aninka 
-Anika Aniko Anico
-Katinka Sans
-Catinca
-Anic Sans
-Ink Sans
-Inky Sans
-Cosmic Sans
-Comink Sans
-Comisch Sans
-Komisch Sans haha!
-Conic Sans
-Conni Sans
-Con Sans = mitohne
-Conis
-Consens
-Ink Sans // Ink Hand // Ink Serif?
-Inkish Sans
-Inky Sans
-Ginko
-ginko
-Ingo Kingo twingo Flamingo
-king kink sink 
-blink Blink bling
-octopus pelikan
-inka
-inko ginko pinko Anke anke 
-Inke inky inko inke
-Katinka catinka
-hand peng
-abcdefghjklmnopqrstuvwxyz  
-typografie
-simonatzbach  ",
-"Winky-winky
-BEIFANG
-Hamburgefonts 
-the quick brown fox jumps over the lazy dog.
-THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
-D,
-"abcdefghijklmnopqrsßtuvwxyz",
-"/g.salt",
-"",
-"ȷ́/jacute",
-"ª",
-"¹",
-"º",
-"J/Jacute"
+"ȷ́́́ȷȷȷ/jacute",
+"jȷ/jacute"
 );
 axes = (
 {
@@ -21320,17 +21273,17 @@ unicode = 567;
 },
 {
 glyphname = jacute;
-lastChange = "2024-12-25 19:32:57 +0000";
+lastChange = "2024-12-26 02:16:11 +0000";
 layers = (
 {
 layerId = m003;
 shapes = (
 {
-ref = jdotless;
+pos = (-134,176);
+ref = acutecomb;
 },
 {
-pos = (-134,0);
-ref = acutecomb;
+ref = j;
 }
 );
 width = 239;
@@ -21339,11 +21292,11 @@ width = 239;
 layerId = m005;
 shapes = (
 {
-ref = jdotless;
+pos = (-134,176);
+ref = acutecomb;
 },
 {
-pos = (-134,0);
-ref = acutecomb;
+ref = j;
 }
 );
 width = 239;
@@ -21352,11 +21305,11 @@ width = 239;
 layerId = m002;
 shapes = (
 {
-ref = jdotless;
+pos = (-134,200);
+ref = acutecomb;
 },
 {
-pos = (-134,0);
-ref = acutecomb;
+ref = j;
 }
 );
 width = 239;
