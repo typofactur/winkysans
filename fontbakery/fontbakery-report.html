@@ -272,20 +272,20 @@ you're checking.</p>
     <tr>
         <td>0</td>
         <td>0</td>
-        <td>10</td>
+        <td>7</td>
         <td>8</td>
-        <td>99</td>
+        <td>98</td>
         <td>8</td>
-        <td>126</td>
+        <td>130</td>
     </tr>
     <tr>
         <td>0%</td>
         <td>0%</td>
-        <td>4%</td>
+        <td>3%</td>
         <td>3%</td>
         <td>39%</td>
         <td>3%</td>
-        <td>50%</td>
+        <td>52%</td>
     </tr>
 </table>
         
@@ -698,23 +698,23 @@ immediately.
 
                             <span class='details_text'>
                             <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
-
-- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
-
-- Contour 0 point 61 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+<pre><code>- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
 
 - Contour 1 point 71 in glyph 'uni0137' has a kink between location wght=300 and location wght=900
 
-- Contour 1 point 18 in glyph 'ampersand' has a kink between location wght=300 and location wght=900
-
 - Contour 1 point 26 in glyph 'eth' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
+- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
 
 - Contour 0 point 26 in glyph 'numbersign' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
+- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
+
+- Contour 1 point 18 in glyph 'ampersand' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 61 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
 </code></pre>
 
                             
@@ -2105,6 +2105,9 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese</li>
 <li>U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese</li>
@@ -2117,19 +2120,19 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hebrew, hanunoo, bhaiksuki, thai, bengali, duployan, tirhuta, mandaic, avestan, sinhala, rejang, tagbanwa, lepcha, nko, telugu, hatran, brahmi, pahawh-hmong, masaram-gondi, kaithi, saurashtra, javanese, tifinagh, warang-citi, zanabazar-square, mongolian, takri, thaana, psalter-pahlavi, dogra, tai-viet, arabic, gurmukhi, yi, kayah-li, khojki, siddham, khmer, tagalog, syriac, tibetan, myanmar, buginese, tai-tham, tamil, kharoshthi, cham, meetei-mayek, gujarati, buhid, manichaean, hanifi-rohingya, new-tai-lue, syloti-nagri, lao, limbu, sundanese, mahajani, phags-pa, oriya, malayalam, chakma, tai-le, balinese, devanagari, modi, gunjala-gondi, grantha, kannada, khudawadi, newa, sogdian, sharada, batak</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: hebrew, hanunoo, bhaiksuki, thai, bengali, duployan, tirhuta, mandaic, avestan, sinhala, rejang, tagbanwa, lepcha, nko, old-hungarian, telugu, brahmi, pahawh-hmong, masaram-gondi, kaithi, saurashtra, javanese, tifinagh, warang-citi, zanabazar-square, mongolian, takri, thaana, psalter-pahlavi, dogra, tai-viet, arabic, gurmukhi, yi, kayah-li, khojki, siddham, khmer, tagalog, syriac, tibetan, myanmar, buginese, tai-tham, tamil, kharoshthi, cham, meetei-mayek, gujarati, buhid, manichaean, hanifi-rohingya, new-tai-lue, syloti-nagri, lao, limbu, sundanese, mahajani, phags-pa, oriya, malayalam, chakma, tai-le, balinese, devanagari, modi, gunjala-gondi, grantha, kannada, khudawadi, newa, sogdian, sharada, batak</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: hebrew, phags-pa, thaana, arabic, nko, syriac</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: hebrew, phags-pa, thaana, nko, syriac</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gunjala-gondi, manichaean, gujarati, siddham, lepcha, thai, cham, nko, new-tai-lue, phags-pa, brahmi, chakma, kaithi, kannada, duployan, kharoshthi, buginese, mahajani, kayah-li, meetei-mayek, tirhuta, balinese, zanabazar-square, lao, rejang, saurashtra, warang-citi, telugu, buhid, mongolian, dogra, mandaic, psalter-pahlavi, hatran, khudawadi, khmer, sinhala, sundanese, tamil, yi, khojki, oriya, tifinagh, masaram-gondi, batak, gurmukhi, grantha, thaana, modi, syriac, hebrew, hanunoo, myanmar, avestan, tagalog, syloti-nagri, bhaiksuki, bengali, arabic, limbu, devanagari, sharada, takri, newa, javanese, malayalam, sogdian, tai-le, tai-tham, tai-viet, tibetan, pahawh-hmong, hanifi-rohingya, tagbanwa</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: gunjala-gondi, manichaean, gujarati, siddham, lepcha, thai, cham, nko, new-tai-lue, phags-pa, brahmi, chakma, kaithi, kannada, duployan, old-hungarian, kharoshthi, buginese, mahajani, kayah-li, meetei-mayek, tirhuta, balinese, zanabazar-square, lao, rejang, saurashtra, warang-citi, telugu, buhid, mongolian, dogra, mandaic, psalter-pahlavi, khudawadi, sinhala, khmer, sundanese, tamil, yi, khojki, oriya, tifinagh, masaram-gondi, batak, gurmukhi, grantha, thaana, modi, syriac, hebrew, hanunoo, myanmar, avestan, tagalog, syloti-nagri, bhaiksuki, bengali, arabic, limbu, devanagari, sharada, takri, newa, javanese, malayalam, sogdian, tai-le, tai-tham, tai-viet, tibetan, pahawh-hmong, hanifi-rohingya, tagbanwa</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: arabic, nko, thaana, phags-pa, syriac, hebrew</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, thaana, phags-pa, syriac, hebrew</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi, phags-pa</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: phags-pa, yi, mongolian</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: japanese, phags-pa, chinese-simplified, yi, chinese-traditional, chinese-hongkong, nushu</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: chinese-simplified, yi, phags-pa, chinese-traditional, nushu, chinese-hongkong, japanese</li>
 <li>U+FB00 LATIN SMALL LIGATURE FF: not included in any glyphset definition</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
@@ -3021,165 +3024,6 @@ definitions.</p>
             
         
             
-                <h2>Name table checks</h2>
-<span class='section__emoji'>
-    🔥⏩
-</span>
-
-    <h3>
-    
-    Combined length of family and style must not exceed 32 characters.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/family_and_style_max_length&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-    <h3>
-    
-    Check family name for GF Guide compliance.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/family_name_compliance&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-    <h3>
-    
-    Check copyright namerecords match license file.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/license&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-        <details>
-            <summary>
-                🔥
-                WinkySans[wght].ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                            <p>Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set.</p>
-
-                            
-                             [code: missing]
-                            
-                            </span>
-                        </li>
-                
-                </ul>
-            </div>
-        </details>
-    
-
-
-    <h3>
-    
-    License URL matches License text on name table?
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/license_url&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-    <h3>
-    
-    Name table entries should not contain line-breaks.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/line_breaks&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-    <h3>
-    
-    Name table strings must not contain the string &#39;Reserved Font Name&#39;.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/rfn&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-    <h3>
-    
-    Substitute copyright, registered and trademark symbols in name table entries.
-</h3>
-<div class='check__idlabel'>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/unwanted_chars&gt;</div>
-
-
-
-<div style="background-color:#ee8">
-
-    
-
-</div>
-
-
-    
-
-
-            
         
             
         
@@ -3190,7 +3034,7 @@ definitions.</p>
             
                 <h2>Font File Checks</h2>
 <span class='section__emoji'>
-    🔥🔥🔥🔥⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️
+    🔥🔥⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️
 </span>
 
     <h3>
@@ -3389,36 +3233,6 @@ definitions.</p>
 
 
     
-        <details>
-            <summary>
-                🔥
-                WinkySans[wght].ttf
-                
-            </summary>
-            <div>
-                <ul>
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                            <p>Name Table entry: Copyright notices should match a pattern similar to:</p>
-<p>&quot;Copyright 2020 The Familyname Project Authors (git url)&quot;</p>
-<p>But instead we have got:</p>
-<p>&quot;Copyright (c) typofactur, 2024. All rights reserved.&quot;</p>
-
-                            
-                             [code: bad-notice-format]
-                            
-                            </span>
-                        </li>
-                
-                </ul>
-            </div>
-        </details>
-    
 
 
     <h3>
@@ -3597,49 +3411,10 @@ definitions.</p>
 
                             <span class='details_text'>
                             <p>Missing required codepoints:</p>
-<pre><code>- 0x0060 (GRAVE ACCENT)
-
-
-- 0x00A8 (DIAERESIS)
-
-
-- 0x00AA (FEMININE ORDINAL INDICATOR)
-
-
-- 0x00AF (MACRON)
-
-
-- 0x00B4 (ACUTE ACCENT)
-
-
-- 0x00B8 (CEDILLA)
+<pre><code>- 0x00AA (FEMININE ORDINAL INDICATOR)
 
 
 - 0x00BA (MASCULINE ORDINAL INDICATOR)
-
-
-- 0x02C6 (MODIFIER LETTER CIRCUMFLEX ACCENT)
-
-
-- 0x02C7 (CARON)
-
-
-- 0x02D8 (BREVE)
-
-
-- 0x02D9 (DOT ABOVE)
-
-
-- 0x02DA (RING ABOVE)
-
-
-- 0x02DB (OGONEK)
-
-
-- 0x02DC (SMALL TILDE)
-
-
-- 0x02DD (DOUBLE ACUTE ACCENT)
 
 
 - 0x0300 (COMBINING GRAVE ACCENT)
@@ -4095,34 +3870,6 @@ definitions.</p>
 </div>
 
 
-    
-        <details>
-            <summary>
-                🔥
-                
-                Family Check
-                
-            </summary>
-            <div>
-                <ul>
-                
-                        <li class='details_item'>
-                            <span class='details_indicator'>
-                            🔥 FAIL
-                            </span>
-
-                            <span class='details_text'>
-                            <p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/variable/WinkySans[wght].ttf'].</p>
-
-                            
-                             [code: missing-os2-fsselection-bit7]
-                            
-                            </span>
-                        </li>
-                
-                </ul>
-            </div>
-        </details>
     
 
 
