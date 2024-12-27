@@ -31,12 +31,13 @@ See also Winky Rough, an alternative version of the font imitating dried ink on 
 ![Sample Image](documentation/winkysans_casual.png)
 ![Sample Image](documentation/winkysans_ink.png)
 ![Sample Image](documentation/winkysans_octopus.png)
-![Sample Image](documentation/winkyrough_friendlygit.png)
+![Sample Image](documentation/winkyrough_friendly_git.png)
 
 
 ## About
 
-typofactur is a German foundry run by the graphic designer Simon Atzbach.
+typofactur is a German type foundry run by the graphic designer Simon Atzbach.
+Find out more at https://typofactur.de
 
 ## Building
 
@@ -58,6 +59,10 @@ Changelog example:
 
 **22 December 2024. Version 1.000**
 - initial release
+
+**27 December 2024. Version 1.002**
+- accents bolder
+- analog to Winky Rough
 
 ## License
 
