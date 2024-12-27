@@ -1,19 +1,5 @@
 ----
 
-## Setting up your font
-
-### New repositories
-
-
-5. Fill out `documentation/DESCRIPTION.en_us.html` with a description about your font.
-
-9. **Set up your GitHub pages site**: go to Settings > Pages and ensure that the "Source" drop-down is set to "Deploy from a Branch". Ensure that the "Branch" is set to `gh-pages`. If this branch is not available, check that the "Build font and specimen" action in the "Actions" tab has completed; if it completed successfully, then try again - `gh-pages` should now be an option.
-
-10. If Github Actions has successfully built the family, you will find the font binaries in the Actions tab. The official Github Actions documentation provides further [information](https://docs.github.com/en/actions/managing-workflow-runs/downloading-workflow-artifacts).
-
-
-----
-
 
 # Winky Sans
 
@@ -28,9 +14,14 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkysans%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkysans%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Winky Sans looks like the sober, grown-up cousin of Comic Sans. Informal and personable, but not silly.</p>
 
-Don't hesitate to create images!
+Based on Aniva Sans, the letter shapes are rounded and thickened at the endings, and little irregularities were added, wich results in the impression of handwriting.
+
+Winky Sans is a variable font with a weight axis that ranges from Light (300) to Black (900). But be careful! Like flowing ink on paper the forms grows in all directions.
+While the slim weights might have been written with a fineliner, the black style look like ink blots from a broken pen.
+
+See also Winky Rough, an alternative version of the font imitating dried ink on rough paper.
 
 ![Sample Image](documentation/winkysans_cover.png)
 ![Sample Image](documentation/winkysans_alphabet.png)
@@ -40,6 +31,8 @@ Don't hesitate to create images!
 ![Sample Image](documentation/winkysans_casual.png)
 ![Sample Image](documentation/winkysans_ink.png)
 ![Sample Image](documentation/winkysans_octopus.png)
+![Sample Image](documentation/winkyrough_friendlygit.png)
+
 
 ## About
 
