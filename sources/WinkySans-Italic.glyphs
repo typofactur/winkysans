@@ -347,6 +347,7 @@ over = -7;
 pos = -200;
 },
 {
+pos = 12;
 }
 );
 name = "Light Italic";
@@ -20253,7 +20254,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (260,0);
+pos = (251,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -20266,7 +20267,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (233,0);
+pos = (107,0);
 ref = commaturnedabovecomb;
 }
 );
