@@ -72,6 +72,12 @@ Changelog example:
 **03 January 2025. Version 1.004**
 - schwa
 
+**03 January 2025. Version 1.100**
+- kerning with Kern On
+- Italic added
+- commaaccentcomb
+
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

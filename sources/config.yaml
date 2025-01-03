@@ -8,6 +8,7 @@
 # directory.
 sources:
   - WinkySans.glyphs
+  - WinkySans-Italic.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Winky Sans"
@@ -63,22 +64,54 @@ includeSourceFixes: true
 # for each VF file built.
 stat:
   WinkySans[wght].ttf:
-  - name: Weight
-    tag: wght
-    values:
-      - name: Light
-        value: 300
-      - name: Regular
-        value: 400
-        linkedValue: 700
-        flags: 2
-      - name: Medium
-        value: 500
-      - name: SemiBold
-        value: 600
-      - name: Bold
-        value: 700
-      - name: ExtraBold
-        value: 800
-      - name: Black
-        value: 900
+    - name: Weight
+      tag: wght
+      values:
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+    - name: Italic
+      tag: ital
+      values:
+        - name: Roman
+          value: 0
+          linkedValue: 1
+          flags: 2
+  WinkySans-Italic[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+    - name: Italic
+      tag: ital
+      values:
+        - name: Italic
+          value: 1
