@@ -5,7 +5,8 @@ DisplayStrings = (
 "
 nipaid 
 nizZzid
-NIZID "
+NIZID ",
+"/jacute"
 );
 axes = (
 {
@@ -35,7 +36,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2025-01-03 18:48:31 +0000";
+date = "2025-01-03 19:58:00 +0000";
 familyName = "Winky Sans";
 featurePrefixes = (
 {
@@ -21448,17 +21449,16 @@ unicode = 567;
 },
 {
 glyphname = jacute;
-lastChange = "2024-12-26 02:16:11 +0000";
 layers = (
 {
 layerId = m003;
 shapes = (
 {
-pos = (-134,176);
-ref = acutecomb;
+ref = jdotless;
 },
 {
-ref = j;
+pos = (-134,0);
+ref = acutecomb;
 }
 );
 width = 239;
@@ -21467,11 +21467,11 @@ width = 239;
 layerId = m005;
 shapes = (
 {
-pos = (-134,176);
-ref = acutecomb;
+ref = jdotless;
 },
 {
-ref = j;
+pos = (-134,0);
+ref = acutecomb;
 }
 );
 width = 239;
@@ -21480,11 +21480,11 @@ width = 239;
 layerId = m002;
 shapes = (
 {
-pos = (-134,200);
-ref = acutecomb;
+ref = jdotless;
 },
 {
-ref = j;
+pos = (-134,0);
+ref = acutecomb;
 }
 );
 width = 239;
@@ -60651,77 +60651,6 @@ R = NoKerning;
 };
 },
 {
-glyphname = commaturnedabove;
-lastChange = "2024-12-27 17:31:57 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-pos = (123,500);
-},
-{
-name = top;
-pos = (123,808);
-}
-);
-layerId = m003;
-shapes = (
-{
-angle = 180;
-pos = (245,660);
-ref = comma;
-}
-);
-width = 245;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (118,500);
-},
-{
-name = top;
-pos = (118,828);
-}
-);
-layerId = m005;
-shapes = (
-{
-angle = 180;
-pos = (235,680);
-ref = comma;
-}
-);
-width = 245;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (125,500);
-},
-{
-name = top;
-pos = (125,824);
-}
-);
-layerId = m002;
-shapes = (
-{
-angle = 180;
-pos = (250,710);
-ref = comma;
-}
-);
-width = 245;
-}
-);
-metricLeft = "=comma";
-metricRight = "=comma";
-},
-{
 glyphname = dieresis;
 lastChange = "2024-12-27 17:31:22 +0000";
 layers = (
@@ -63212,6 +63141,77 @@ width = 510;
 );
 note = ogonek;
 unicode = 731;
+},
+{
+glyphname = commaturnedabove;
+lastChange = "2024-12-27 17:31:57 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (123,500);
+},
+{
+name = top;
+pos = (123,808);
+}
+);
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (245,660);
+ref = comma;
+}
+);
+width = 245;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (118,500);
+},
+{
+name = top;
+pos = (118,828);
+}
+);
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (235,680);
+ref = comma;
+}
+);
+width = 245;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (125,500);
+},
+{
+name = top;
+pos = (125,824);
+}
+);
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (250,710);
+ref = comma;
+}
+);
+width = 245;
+}
+);
+metricLeft = "=comma";
+metricRight = "=comma";
 }
 );
 instances = (
@@ -63293,59 +63293,60 @@ weightClass = 900;
 );
 kerningLTR = {
 m003 = {
-n = {
-i = -29;
-};
-l = {
-y = -40;
-};
-I = {
-};
-S = {
-T = -60;
-w = -30;
-period = -40;
-quotesingle = -20;
-};
-L = {
-T = -80;
-v = -60;
-y = -60;
-};
-y = {
-period = -40;
-comma = -40;
+A = {
+V = -80;
+quotedblright = -20;
+quotesingle = -40;
 };
 E = {
 O = -20;
-};
-Y = {
-d = -90;
-comma = -80;
-};
-endash = {
-T = -80;
-};
-a = {
-i = -27;
-};
-z = {
-i = -25;
-};
-o = {
-comma = -20;
-};
-emdash = {
-T = -80;
 };
 F = {
 J = -120;
 d = -40;
 o = -40;
 };
+L = {
+T = -80;
+v = -60;
+y = -60;
+};
+N = {
+I = -4;
+};
+P = {
+J = -120;
+comma = -140;
+period = -140;
+};
+S = {
+T = -60;
+period = -40;
+quotesingle = -20;
+w = -30;
+};
 T = {
 r = -100;
 y = -100;
+};
+V = {
+o = -40;
+};
+Y = {
+comma = -80;
+d = -90;
+};
+Z = {
+w = -30;
+};
+a = {
+i = -27;
+};
+emdash = {
+T = -80;
+};
+endash = {
+T = -80;
 };
 f = {
 period = -40;
@@ -63355,111 +63356,27 @@ quotesingle = 20;
 hyphen = {
 T = -80;
 };
-A = {
-V = -80;
-quotedblright = -20;
-quotesingle = -40;
-};
-p = {
-a = -15;
-comma = -20;
-};
-P = {
-J = -120;
-period = -140;
-comma = -140;
-};
-s = {
-comma = -20;
-};
-V = {
-o = -40;
-};
-underscore = {
-T = -80;
-};
-slash = {
-slash = -100;
-};
-N = {
-I = -4;
-};
 i = {
 d = -26;
 p = -29;
 z = -25;
 };
-r = {
-period = -150;
-comma = -120;
+l = {
+y = -40;
 };
-Z = {
-w = -30;
-};
-};
-m005 = {
 n = {
-i = -54;
+i = -29;
 };
-I = {
-};
-S = {
-T = -60;
-w = -30;
-period = -40;
-};
-W = {
-d = -40;
-};
-L = {
-v = -60;
-};
-y = {
-comma = -40;
-};
-E = {
-O = -20;
-};
-Y = {
-d = -90;
-comma = -80;
-};
-endash = {
-T = -80;
-};
-a = {
-i = -50;
-};
-z = {
-i = -40;
-};
-F = {
-J = -120;
-d = -40;
-};
-T = {
-r = -100;
-y = -100;
-};
-f = {
-period = -40;
-comma = -40;
-};
-hyphen = {
-T = -80;
-};
-A = {
-V = -80;
+o = {
+comma = -20;
 };
 p = {
-a = -40;
+a = -15;
+comma = -20;
 };
-P = {
-J = -120;
-period = -140;
-comma = -140;
-quotedblleft = -140;
-quoteright = -140;
+r = {
+comma = -120;
+period = -150;
 };
 s = {
 comma = -20;
@@ -63467,108 +63384,174 @@ comma = -20;
 slash = {
 slash = -100;
 };
-N = {
+underscore = {
+T = -80;
+};
+y = {
+comma = -40;
+period = -40;
+};
+z = {
+i = -25;
+};
+};
+m005 = {
+A = {
+V = -80;
+};
+E = {
+O = -20;
+};
+F = {
+J = -120;
+d = -40;
+};
+L = {
+v = -60;
+};
+P = {
+J = -120;
+comma = -140;
+period = -140;
+quotedblleft = -140;
+quoteright = -140;
+};
+S = {
+T = -60;
+period = -40;
+w = -30;
+};
+T = {
+r = -100;
+y = -100;
+};
+W = {
+d = -40;
+};
+Y = {
+comma = -80;
+d = -90;
+};
+a = {
+i = -50;
+};
+endash = {
+T = -80;
+};
+f = {
+comma = -40;
+period = -40;
+};
+hyphen = {
+T = -80;
 };
 i = {
 d = -50;
 p = -48;
 z = -40;
 };
+n = {
+i = -54;
+};
+p = {
+a = -40;
+};
 r = {
-period = -150;
 comma = -120;
+period = -150;
 quotedblleft = -120;
 quoteright = -120;
 };
-Z = {
+s = {
+comma = -20;
+};
+slash = {
+slash = -100;
+};
+y = {
+comma = -40;
+};
+z = {
+i = -40;
 };
 };
 m002 = {
-n = {
-i = -19;
-};
-l = {
-y = -40;
-};
-I = {
-D = -21;
-};
-S = {
-T = -60;
-y = -30;
-period = -40;
-comma = -40;
-quotesingle = -20;
-};
-L = {
-v = -60;
+A = {
+V = -80;
+quotesingle = -40;
 };
 E = {
 O = -20;
 };
-Y = {
-O = -20;
-d = -90;
-comma = -80;
-};
-R = {
-period = -80;
-comma = -80;
-};
-a = {
-i = -7;
-};
-z = {
-Z = -22;
-z = -8;
-};
-X = {
-v = -60;
-};
 F = {
 A = -90;
 J = -120;
+};
+I = {
+D = -21;
+};
+L = {
+v = -60;
+};
+P = {
+comma = -140;
+period = -140;
+quotedblleft = -140;
+quoteleft = -140;
+quoteright = -140;
+};
+R = {
+comma = -80;
+period = -80;
+};
+S = {
+T = -60;
+comma = -40;
+period = -40;
+quotesingle = -20;
+y = -30;
 };
 T = {
 o = -100;
 r = -100;
 y = -100;
 };
-f = {
-period = -40;
-comma = -40;
-};
-A = {
-V = -80;
-quotesingle = -40;
-};
-p = {
-a = -13;
-};
-P = {
-period = -140;
-comma = -140;
-quotedblleft = -140;
-quoteleft = -140;
-quoteright = -140;
-};
-s = {
-period = -20;
-comma = -20;
-};
 V = {
 d = -40;
 o = -40;
 };
-slash = {
-slash = -100;
+X = {
+v = -60;
 };
-N = {
+Y = {
+O = -20;
+comma = -80;
+d = -90;
+};
+Z = {
+I = 15;
+z = -20;
+};
+a = {
+i = -7;
+};
+f = {
+comma = -40;
+period = -40;
 };
 i = {
 d = -17;
 p = -16;
 z = -23;
+};
+l = {
+y = -40;
+};
+n = {
+i = -19;
+};
+p = {
+a = -13;
 };
 r = {
 period = -150;
@@ -63576,9 +63559,16 @@ quotedblleft = -120;
 quoteleft = -120;
 quoteright = -120;
 };
-Z = {
-I = 15;
-z = -20;
+s = {
+comma = -20;
+period = -20;
+};
+slash = {
+slash = -100;
+};
+z = {
+Z = -22;
+z = -8;
 };
 };
 };
@@ -63784,5 +63774,5 @@ tH = "70";
 KernOnVersion = "1.33";
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
