@@ -2,20 +2,9 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"
-nipaid 
-nizZzid
-NIZID ",
-"ȷ́/jacute",
-"ʻ",
-"̦",
-"̦ʻ",
-"ﬀ",
-"ﬃ",
-"/f_f_j",
-"ﬁ",
-"/f_j",
-"ﬂ"
+j,
+"/jacute",
+"ə"
 );
 axes = (
 {
@@ -19059,18 +19048,39 @@ unicode = 7869;
 },
 {
 glyphname = schwa;
-lastChange = "2024-12-26 00:25:22 +0000";
+lastChange = "2025-01-03 21:26:11 +0000";
 layers = (
 {
 layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (485,500);
+ref = e.salt;
+}
+);
 width = 485;
 },
 {
 layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (485,500);
+ref = e.salt;
+}
+);
 width = 485;
 },
 {
 layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (505,500);
+ref = e.salt;
+}
+);
 width = 505;
 }
 );

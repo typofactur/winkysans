@@ -64,6 +64,14 @@ Changelog example:
 - accents bolder
 - analog to Winky Rough
 
+**03 January 2025. Version 1.003**
+- Z and z
+- commaturdenmod added
+- jacute without dot
+
+**03 January 2025. Version 1.004**
+- schwa
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
