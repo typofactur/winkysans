@@ -78,6 +78,10 @@ Changelog example:
 - Italic added
 - commaaccentcomb
 
+**04 January 2025. Version 1.101**
+- dottedCircle added
+- no ligatures
+
 
 ## License
 
