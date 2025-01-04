@@ -25,6 +25,7 @@ See also Winky Rough, an alternative version of the font imitating dried ink on 
 
 ![Sample Image](documentation/winkysans_cover.png)
 ![Sample Image](documentation/winkysans_alphabet.png)
+![Sample Image](documentation/winkysansitalic_alphabet.png)
 ![Sample Image](documentation/winkysans_weights.png)
 ![Sample Image](documentation/winkysans_fineliner.png)
 ![Sample Image](documentation/winkysans_hi.png)
