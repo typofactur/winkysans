@@ -1,6 +1,9 @@
 {
 .appVersion = "3337";
 .formatVersion = 3;
+DisplayStrings = (
+"/a.salt"
+);
 axes = (
 {
 name = Weight;
@@ -29705,7 +29708,7 @@ width = 540;
 glyphname = a.salt;
 kernLeft = KO_a.salt;
 kernRight = KO_n;
-lastChange = "2024-03-31 17:08:05 +0000";
+lastChange = "2025-01-04 16:48:00 +0000";
 layers = (
 {
 anchors = (
@@ -29929,7 +29932,7 @@ nodes = (
 (253,198,cs),
 (265,198,o),
 (275,193,o),
-(275,183,c),
+(275,183,cs),
 (275,178,ls),
 (275,161,o),
 (244,150,o),
