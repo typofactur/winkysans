@@ -53906,13 +53906,17 @@ unicode = 8240;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2025-01-04 17:04:04 +0000";
+lastChange = "2025-01-04 17:46:18 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (300,0);
+},
+{
+name = ogonek;
+pos = (547,0);
 },
 {
 name = top;
@@ -54165,6 +54169,10 @@ name = bottom;
 pos = (300,0);
 },
 {
+name = ogonek;
+pos = (547,0);
+},
+{
 name = top;
 pos = (300,700);
 }
@@ -54413,6 +54421,10 @@ anchors = (
 {
 name = bottom;
 pos = (300,0);
+},
+{
+name = ogonek;
+pos = (547,0);
 },
 {
 name = top;

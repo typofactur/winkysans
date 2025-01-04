@@ -2,16 +2,8 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"/a.salt",
-"◌",
-ff,
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"̨",
+"◌"
 );
 axes = (
 {
@@ -54311,13 +54303,17 @@ unicode = 8240;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2025-01-04 17:03:16 +0000";
+lastChange = "2025-01-04 17:45:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 pos = (247,0);
+},
+{
+name = ogonek;
+pos = (547,0);
 },
 {
 name = top;
@@ -54570,6 +54566,10 @@ name = bottom;
 pos = (247,0);
 },
 {
+name = ogonek;
+pos = (547,0);
+},
+{
 name = top;
 pos = (396,700);
 }
@@ -54818,6 +54818,10 @@ anchors = (
 {
 name = bottom;
 pos = (247,0);
+},
+{
+name = ogonek;
+pos = (547,0);
 },
 {
 name = top;
@@ -57806,7 +57810,7 @@ R = NoKerning;
 },
 {
 glyphname = ogonekcomb;
-lastChange = "2025-01-03 23:04:47 +0000";
+lastChange = "2025-01-04 17:43:35 +0000";
 layers = (
 {
 anchors = (
