@@ -81,6 +81,7 @@ Changelog example:
 **04 January 2025. Version 1.101**
 - dottedCircle added
 - no ligatures
+- no commaturnedabove
 
 
 ## License
