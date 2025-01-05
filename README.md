@@ -89,6 +89,9 @@ Changelog example:
 - glyphspackage instead of glyphs
 - mark ogonek in dottedcircle
 
+**05 January 2025. Version 1.201**
+- fractions
+
 
 ## License
 
