@@ -1,0 +1,47 @@
+{
+glyphname = ccaron;
+kernLeft = KO_odieresis;
+kernRight = KO_c;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (71,0);
+ref = caroncomb;
+}
+);
+width = 397;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (71,0);
+ref = caroncomb;
+}
+);
+width = 406;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (81,0);
+ref = caroncomb;
+}
+);
+width = 455;
+}
+);
+unicode = 269;
+}

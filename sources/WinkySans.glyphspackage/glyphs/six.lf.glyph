@@ -1,0 +1,112 @@
+{
+glyphname = six.lf;
+kernLeft = KO_six;
+kernRight = KO_six;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (340,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (612,65);
+type = Stem;
+},
+{
+place = (24,117);
+type = Stem;
+},
+{
+place = (369,112);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = six;
+}
+);
+width = 547;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (340,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (612,65);
+type = Stem;
+},
+{
+place = (24,117);
+type = Stem;
+},
+{
+place = (369,112);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = six;
+}
+);
+width = 557;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (340,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (612,65);
+type = Stem;
+},
+{
+place = (24,117);
+type = Stem;
+},
+{
+place = (369,112);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = six;
+}
+);
+width = 547;
+}
+);
+metricLeft = "=O";
+metricRight = "=S";
+note = six;
+}

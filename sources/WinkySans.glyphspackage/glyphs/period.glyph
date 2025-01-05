@@ -1,0 +1,118 @@
+{
+glyphname = period;
+kernLeft = KO_period;
+kernRight = KO_period;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(149,-10,o),
+(180,20,o),
+(180,60,cs),
+(180,99,o),
+(149,130,o),
+(110,130,cs),
+(70,130,o),
+(40,99,o),
+(40,60,cs),
+(40,20,o),
+(70,-10,o),
+(110,-10,cs)
+);
+}
+);
+width = 220;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,-25,o),
+(215,20,o),
+(215,80,cs),
+(215,139,o),
+(169,185,o),
+(110,185,cs),
+(50,185,o),
+(5,139,o),
+(5,80,cs),
+(5,20,o),
+(50,-25,o),
+(110,-25,cs)
+);
+}
+);
+width = 220;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,-10,o),
+(170,16,o),
+(170,50,cs),
+(170,83,o),
+(143,110,o),
+(110,110,cs),
+(76,110,o),
+(50,83,o),
+(50,50,cs),
+(50,16,o),
+(76,-10,o),
+(110,-10,cs)
+);
+}
+);
+width = 220;
+}
+);
+note = period;
+unicode = 46;
+userData = {
+KernOnName = period;
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

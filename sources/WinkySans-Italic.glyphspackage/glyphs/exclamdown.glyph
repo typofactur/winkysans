@@ -1,0 +1,44 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (328,500);
+ref = exclam;
+}
+);
+width = 220;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (341,500);
+ref = exclam;
+}
+);
+width = 220;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (330,500);
+ref = exclam;
+}
+);
+width = 220;
+}
+);
+unicode = 161;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

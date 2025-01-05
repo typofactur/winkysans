@@ -1,0 +1,220 @@
+{
+glyphname = dollar;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = m003;
+name = Light;
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,-90,ls),
+(231,-90,o),
+(249,-80,o),
+(248,-64,cs),
+(239,23,l),
+(182,23,l),
+(173,-64,ls),
+(172,-80,o),
+(190,-90,o),
+(210,-90,cs)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(239,643,l),
+(248,721,ls),
+(250,738,o),
+(230,747,o),
+(211,747,cs),
+(210,747,ls),
+(192,747,o),
+(183,738,o),
+(183,720,cs),
+(183,643,l)
+);
+}
+);
+width = 431;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = m005;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,-100,ls),
+(235,-100,o),
+(260,-87,o),
+(258,-63,cs),
+(248,33,l),
+(173,33,l),
+(163,-63,ls),
+(161,-87,o),
+(186,-100,o),
+(210,-100,cs)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(248,633,l),
+(258,720,ls),
+(261,745,o),
+(235,757,o),
+(211,757,cs),
+(210,757,ls),
+(186,757,o),
+(173,744,o),
+(173,720,cs),
+(173,633,l)
+);
+}
+);
+width = 456;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,77);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,142);
+type = Stem;
+},
+{
+place = (35,90);
+type = Stem;
+},
+{
+place = (183,50);
+type = Stem;
+},
+{
+place = (305,109);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-85,152);
+type = Stem;
+}
+);
+layerId = m002;
+name = Black;
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,-150,ls),
+(265,-150,o),
+(313,-113,o),
+(308,-58,cs),
+(293,83,l),
+(128,83,l),
+(113,-58,ls),
+(108,-113,o),
+(156,-150,o),
+(210,-150,cs)
+);
+},
+{
+ref = S;
+},
+{
+closed = 1;
+nodes = (
+(293,583,l),
+(308,714,ls),
+(314,770,o),
+(266,807,o),
+(211,807,cs),
+(210,807,ls),
+(158,807,o),
+(123,772,o),
+(123,720,cs),
+(123,583,l)
+);
+}
+);
+width = 492;
+}
+);
+note = dollar;
+unicode = 36;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

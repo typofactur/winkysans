@@ -1,0 +1,36 @@
+{
+glyphname = zero.osf;
+kernLeft = KO_zero;
+kernRight = KO_zero.osf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 570;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 570;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 570;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

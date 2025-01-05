@@ -1,0 +1,91 @@
+{
+glyphname = semicolon;
+kernLeft = KO_colon;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (-11,0);
+ref = comma;
+},
+{
+pos = (60,380);
+ref = period;
+}
+);
+width = 234;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (-11,0);
+ref = comma;
+},
+{
+pos = (54,340);
+ref = period;
+}
+);
+width = 234;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (-11,0);
+ref = comma;
+},
+{
+pos = (64,397);
+ref = period;
+}
+);
+width = 234;
+}
+);
+metricLeft = "=period";
+metricRight = "=comma";
+note = period;
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

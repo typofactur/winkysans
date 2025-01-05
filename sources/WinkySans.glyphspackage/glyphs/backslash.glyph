@@ -1,0 +1,82 @@
+{
+glyphname = backslash;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (365,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 365;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (365,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 365;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (365,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 365;
+}
+);
+note = backslash;
+unicode = 92;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

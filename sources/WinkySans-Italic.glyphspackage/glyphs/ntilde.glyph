@@ -1,0 +1,47 @@
+{
+glyphname = ntilde;
+kernLeft = KO_idotaccent;
+kernRight = KO_n;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (83,0);
+ref = tildecomb;
+}
+);
+width = 540;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (83,0);
+ref = tildecomb;
+}
+);
+width = 540;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (83,0);
+ref = tildecomb;
+}
+);
+width = 540;
+}
+);
+unicode = 241;
+}

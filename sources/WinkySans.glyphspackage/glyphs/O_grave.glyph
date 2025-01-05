@@ -1,0 +1,47 @@
+{
+glyphname = Ograve;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (35,125);
+ref = gravecomb;
+}
+);
+width = 570;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (35,125);
+ref = gravecomb;
+}
+);
+width = 570;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (35,125);
+ref = gravecomb;
+}
+);
+width = 570;
+}
+);
+unicode = 210;
+}

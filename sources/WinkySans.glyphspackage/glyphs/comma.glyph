@@ -1,0 +1,165 @@
+{
+glyphname = comma;
+kernLeft = KO_comma;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(110,-10,l),
+(123,-10,o),
+(130,-21,o),
+(130,-40,cs),
+(130,-65,o),
+(115,-81,o),
+(88,-87,cs),
+(70,-91,o),
+(60,-100,o),
+(60,-118,cs),
+(60,-120,ls),
+(60,-139,o),
+(71,-151,o),
+(90,-148,cs),
+(158,-136,o),
+(195,-84,o),
+(195,0,cs),
+(195,83,o),
+(159,130,o),
+(110,130,c)
+);
+}
+);
+width = 245;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(110,-25,l),
+(123,-25,o),
+(130,-29,o),
+(130,-35,cs),
+(130,-45,o),
+(120,-52,o),
+(105,-54,cs),
+(76,-57,o),
+(60,-73,o),
+(60,-107,cs),
+(60,-110,ls),
+(60,-145,o),
+(79,-168,o),
+(114,-163,cs),
+(197,-151,o),
+(245,-99,o),
+(245,0,cs),
+(245,84,o),
+(201,185,o),
+(110,185,c)
+);
+}
+);
+width = 245;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(110,-10,l),
+(123,-10,o),
+(130,-21,o),
+(130,-40,cs),
+(130,-65,o),
+(115,-81,o),
+(88,-87,cs),
+(70,-91,o),
+(60,-100,o),
+(60,-118,cs),
+(60,-120,ls),
+(60,-139,o),
+(71,-151,o),
+(90,-148,cs),
+(158,-136,o),
+(195,-84,o),
+(195,0,cs),
+(195,63,o),
+(159,110,o),
+(110,110,c)
+);
+}
+);
+width = 245;
+}
+);
+note = comma;
+unicode = 44;
+userData = {
+KernOnName = comma;
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

@@ -1,0 +1,24 @@
+{
+glyphname = hairspace;
+layers = (
+{
+layerId = m005;
+width = 143;
+},
+{
+layerId = m002;
+width = 143;
+},
+{
+layerId = m003;
+width = 143;
+}
+);
+unicode = 8202;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

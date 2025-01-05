@@ -1,0 +1,111 @@
+{
+glyphname = braceright;
+kernLeft = KO_braceright;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-67,57);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (313,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (677,57);
+type = Stem;
+},
+{
+place = (184,72);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (412,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 412;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-67,57);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (313,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (677,57);
+type = Stem;
+},
+{
+place = (184,72);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (437,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 436;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-67,57);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (313,50);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (677,57);
+type = Stem;
+},
+{
+place = (184,72);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (407,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 407;
+}
+);
+metricLeft = "=n/2";
+metricRight = "=n";
+note = braceleft;
+unicode = 125;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

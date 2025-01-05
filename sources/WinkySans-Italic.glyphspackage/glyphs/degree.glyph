@@ -1,0 +1,197 @@
+{
+glyphname = degree;
+kernLeft = KO_degree;
+kernRight = KO_degree;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (400,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (660,65);
+type = Stem;
+},
+{
+place = (-47,65);
+type = Stem;
+},
+{
+place = (213,65);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,482,o),
+(151,417,o),
+(220,417,cs),
+(299,417,o),
+(355,472,o),
+(368,552,cs),
+(379,621,o),
+(331,677,o),
+(262,677,cs),
+(193,677,o),
+(129,621,o),
+(118,552,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(192,585,o),
+(222,611,o),
+(252,611,cs),
+(283,611,o),
+(302,585,o),
+(297,552,cs),
+(291,519,o),
+(264,493,o),
+(233,493,cs),
+(203,493,o),
+(181,519,o),
+(187,552,cs)
+);
+}
+);
+width = 330;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (400,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (660,65);
+type = Stem;
+},
+{
+place = (-47,65);
+type = Stem;
+},
+{
+place = (213,65);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(66,469,o),
+(119,392,o),
+(203,392,cs),
+(297,392,o),
+(365,459,o),
+(380,552,cs),
+(393,635,o),
+(336,702,o),
+(253,702,cs),
+(170,702,o),
+(93,635,o),
+(80,552,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(202,571,o),
+(218,586,o),
+(234,586,cs),
+(250,586,o),
+(262,572,o),
+(259,552,cs),
+(256,532,o),
+(240,518,o),
+(224,518,cs),
+(208,518,o),
+(196,533,o),
+(199,552,cs)
+);
+}
+);
+width = 310;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (400,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (660,65);
+type = Stem;
+},
+{
+place = (-47,65);
+type = Stem;
+},
+{
+place = (213,65);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,483,o),
+(163,420,o),
+(230,420,cs),
+(307,420,o),
+(361,474,o),
+(374,552,cs),
+(384,619,o),
+(337,674,o),
+(270,674,cs),
+(203,674,o),
+(140,619,o),
+(130,552,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(199,587,o),
+(228,614,o),
+(260,614,cs),
+(293,614,o),
+(315,587,o),
+(309,552,cs),
+(304,517,o),
+(274,490,o),
+(241,490,cs),
+(209,490,o),
+(188,517,o),
+(193,552,cs)
+);
+}
+);
+width = 344;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = degree;
+unicode = 176;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

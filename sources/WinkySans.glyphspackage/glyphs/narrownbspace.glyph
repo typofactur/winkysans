@@ -1,0 +1,24 @@
+{
+glyphname = narrownbspace;
+layers = (
+{
+layerId = m005;
+width = 200;
+},
+{
+layerId = m002;
+width = 200;
+},
+{
+layerId = m003;
+width = 200;
+}
+);
+unicode = 8239;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

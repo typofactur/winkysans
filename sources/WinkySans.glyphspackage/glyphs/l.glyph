@@ -1,0 +1,224 @@
+{
+glyphname = l;
+kernLeft = KO_l;
+kernRight = KO_l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (148,0);
+},
+{
+name = center;
+pos = (148,350);
+},
+{
+name = top;
+pos = (148,700);
+},
+{
+name = topright;
+pos = (254,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (60,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-3,63);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-4,o),
+(244,9,o),
+(244,33,cs),
+(244,70,o),
+(228,91,o),
+(204,90,cs),
+(175,89,o),
+(166,105,o),
+(166,200,cs),
+(166,350,o),
+(166,511,o),
+(186,661,cs),
+(190,692,o),
+(158,710,o),
+(127,710,cs),
+(94,710,o),
+(76,692,o),
+(76,661,cs),
+(76,511,o),
+(76,350,o),
+(66,200,cs),
+(59,90,o),
+(76,-14,o),
+(204,-5,cs)
+);
+}
+);
+width = 294;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (152,0);
+},
+{
+name = center;
+pos = (152,250);
+},
+{
+name = top;
+pos = (152,700);
+},
+{
+name = topright;
+pos = (284,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (60,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-3,63);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(251,-22,o),
+(294,10,o),
+(294,63,cs),
+(294,129,o),
+(278,163,o),
+(228,163,cs),
+(216,163,o),
+(206,177,o),
+(206,230,cs),
+(206,380,o),
+(216,474,o),
+(236,620,cs),
+(244,682,o),
+(189,726,o),
+(127,726,cs),
+(66,726,o),
+(26,686,o),
+(26,627,cs),
+(26,477,o),
+(26,382,o),
+(16,233,cs),
+(8,112,o),
+(32,-37,o),
+(207,-25,cs)
+);
+}
+);
+width = 304;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (148,0);
+},
+{
+name = center;
+pos = (148,350);
+},
+{
+name = top;
+pos = (148,700);
+},
+{
+name = topright;
+pos = (254,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (60,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-3,63);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,-1,o),
+(234,7,o),
+(234,26,cs),
+(234,60,o),
+(223,74,o),
+(204,73,cs),
+(167,72,o),
+(156,93,o),
+(156,200,cs),
+(156,350,o),
+(156,519,o),
+(176,669,cs),
+(179,694,o),
+(155,707,o),
+(127,707,cs),
+(98,707,o),
+(86,695,o),
+(86,668,cs),
+(86,518,o),
+(85,350,o),
+(76,199,cs),
+(69,83,o),
+(84,-10,o),
+(203,-2,cs)
+);
+}
+);
+width = 294;
+}
+);
+metricLeft = "=n";
+metricRight = "=o";
+note = l;
+unicode = 108;
+userData = {
+KernOnName = l;
+};
+}

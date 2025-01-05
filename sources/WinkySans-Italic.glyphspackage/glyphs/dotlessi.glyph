@@ -1,0 +1,203 @@
+{
+glyphname = dotlessi;
+kernLeft = KO_r;
+kernRight = KO_iacute;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (85,0);
+},
+{
+name = ogonek;
+pos = (145,0);
+},
+{
+name = top;
+pos = (165,500);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (585,120);
+type = Stem;
+},
+{
+place = (8,120);
+type = Stem;
+},
+{
+place = (20,95);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,-10,cs),
+(116,-10,o),
+(149,8,o),
+(151,39,cs),
+(163,173,o),
+(187,327,o),
+(209,461,cs),
+(213,492,o),
+(198,510,o),
+(167,510,cs),
+(134,510,o),
+(101,492,o),
+(99,461,cs),
+(87,327,o),
+(63,173,o),
+(31,39,cs),
+(25,8,o),
+(52,-10,o)
+);
+}
+);
+width = 249;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (85,0);
+},
+{
+name = ogonek;
+pos = (195,0);
+},
+{
+name = top;
+pos = (165,500);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (585,120);
+type = Stem;
+},
+{
+place = (8,120);
+type = Stem;
+},
+{
+place = (20,95);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,-25,cs),
+(141,-25,o),
+(201,16,o),
+(207,77,cs),
+(218,210,o),
+(232,292,o),
+(253,426,cs),
+(263,485,o),
+(229,525,o),
+(170,525,cs),
+(109,525,o),
+(49,484,o),
+(43,423,cs),
+(32,290,o),
+(18,210,o),
+(-13,77,cs),
+(-27,16,o),
+(21,-25,o)
+);
+}
+);
+width = 249;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (86,0);
+},
+{
+name = ogonek;
+pos = (136,0);
+},
+{
+name = top;
+pos = (166,500);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (585,120);
+type = Stem;
+},
+{
+place = (8,120);
+type = Stem;
+},
+{
+place = (20,95);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,-7,cs),
+(113,-7,o),
+(139,6,o),
+(140,31,cs),
+(152,166,o),
+(180,334,o),
+(201,468,cs),
+(205,495,o),
+(196,507,o),
+(169,507,cs),
+(139,507,o),
+(113,494,o),
+(112,469,cs),
+(100,334,o),
+(72,166,o),
+(40,31,cs),
+(35,6,o),
+(55,-7,o)
+);
+}
+);
+width = 250;
+}
+);
+metricLeft = "=i";
+metricRight = "=i";
+note = i;
+unicode = 305;
+}

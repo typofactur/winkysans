@@ -1,0 +1,37 @@
+{
+glyphname = five.lf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 526;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 552;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 521;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

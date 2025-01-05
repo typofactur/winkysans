@@ -1,0 +1,18 @@
+{
+glyphname = lefttorightmark;
+layers = (
+{
+layerId = m005;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 8206;
+}

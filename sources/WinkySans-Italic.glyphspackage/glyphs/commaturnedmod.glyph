@@ -1,0 +1,44 @@
+{
+glyphname = commaturnedmod;
+kernLeft = KO_commaturnedmod;
+kernRight = KO_commaturnedmod;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (236,462);
+ref = commaaccentcomb;
+slant = (-2.1,0);
+}
+);
+width = 228;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (316,462);
+ref = commaaccentcomb;
+slant = (-2.1,0);
+}
+);
+width = 300;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (317,462);
+ref = commaaccentcomb;
+slant = (-2.1,0);
+}
+);
+width = 300;
+}
+);
+unicode = 699;
+}

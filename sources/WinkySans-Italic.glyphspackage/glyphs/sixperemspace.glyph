@@ -1,0 +1,24 @@
+{
+glyphname = sixperemspace;
+layers = (
+{
+layerId = m005;
+width = 167;
+},
+{
+layerId = m002;
+width = 167;
+},
+{
+layerId = m003;
+width = 167;
+}
+);
+unicode = 8198;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

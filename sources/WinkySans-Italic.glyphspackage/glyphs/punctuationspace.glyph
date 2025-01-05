@@ -1,0 +1,25 @@
+{
+glyphname = punctuationspace;
+layers = (
+{
+layerId = m005;
+width = 220;
+},
+{
+layerId = m002;
+width = 220;
+},
+{
+layerId = m003;
+width = 220;
+}
+);
+metricWidth = period;
+unicode = 8200;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

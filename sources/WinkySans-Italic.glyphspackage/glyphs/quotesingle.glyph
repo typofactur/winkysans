@@ -1,0 +1,126 @@
+{
+glyphname = quotesingle;
+kernLeft = KO_quotesingle;
+kernRight = KO_quotesingle;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-17,62.5);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,500,o),
+(199,517,o),
+(204,540,cs),
+(227,646,ls),
+(234,678,o),
+(216,700,o),
+(188,700,cs),
+(160,700,o),
+(136,678,o),
+(133,646,cs),
+(120,540,ls),
+(117,517,o),
+(133,500,o),
+(156,500,cs)
+);
+}
+);
+width = 174;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-13,62.5);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,450,o),
+(255,488,o),
+(267,538,cs),
+(283,608,ls),
+(296,669,o),
+(260,715,o),
+(203,715,cs),
+(146,715,o),
+(94,669,o),
+(89,608,cs),
+(83,538,ls),
+(79,488,o),
+(111,450,o),
+(161,450,cs)
+);
+}
+);
+width = 204;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-17,62.5);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,500,o),
+(191,511,o),
+(195,530,cs),
+(220,657,ls),
+(226,684,o),
+(214,700,o),
+(190,700,cs),
+(166,700,o),
+(150,684,o),
+(146,657,cs),
+(131,530,ls),
+(129,511,o),
+(139,500,o),
+(158,500,cs)
+);
+}
+);
+width = 174;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = quotesingle;
+unicode = 39;
+userData = {
+KernOnName = quotesingle;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

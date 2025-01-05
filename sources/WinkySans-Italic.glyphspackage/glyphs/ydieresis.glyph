@@ -1,0 +1,47 @@
+{
+glyphname = ydieresis;
+kernLeft = KO_y;
+kernRight = KO_yacute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (72,0);
+ref = dieresiscomb;
+}
+);
+width = 476;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (72,0);
+ref = dieresiscomb;
+}
+);
+width = 476;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (111,0);
+ref = dieresiscomb;
+}
+);
+width = 529;
+}
+);
+unicode = 255;
+}

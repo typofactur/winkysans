@@ -1,0 +1,47 @@
+{
+glyphname = Adieresis;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (35,125);
+ref = dieresiscomb;
+}
+);
+width = 550;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (35,125);
+ref = dieresiscomb;
+}
+);
+width = 550;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (85,125);
+ref = dieresiscomb;
+}
+);
+width = 622;
+}
+);
+unicode = 196;
+}

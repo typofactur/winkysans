@@ -83,6 +83,11 @@ Changelog example:
 - no ligatures
 - no commaturnedabove
 
+**05 January 2025. Version 1.200**
+- Italic 9° instead if 12°
+- Schwa, H, H.salt
+- glyphspackage instead of glyphs
+
 
 ## License
 

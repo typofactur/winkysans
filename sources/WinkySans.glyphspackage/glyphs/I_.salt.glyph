@@ -1,0 +1,192 @@
+{
+glyphname = I.salt;
+kernRight = KO_H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (110,0);
+},
+{
+name = ogonek;
+pos = (198,10);
+},
+{
+name = top;
+pos = (110,625);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (70,100);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(111,0,ls),
+(142,0,o),
+(172,18,o),
+(170,49,cs),
+(160,239,o),
+(160,428,o),
+(170,618,cs),
+(172,649,o),
+(142,667,o),
+(111,667,cs),
+(109,667,ls),
+(78,667,o),
+(60,649,o),
+(60,618,cs),
+(60,428,o),
+(60,239,o),
+(50,49,cs),
+(48,18,o),
+(78,0,o),
+(109,0,cs)
+);
+}
+);
+width = 220;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (135,0);
+},
+{
+name = ogonek;
+pos = (223,10);
+},
+{
+name = top;
+pos = (135,625);
+},
+{
+name = topleft;
+pos = (45,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (70,100);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,-50,ls),
+(195,-50,o),
+(249,-9,o),
+(245,52,cs),
+(235,240,o),
+(235,427,o),
+(245,615,cs),
+(249,676,o),
+(195,717,o),
+(136,717,cs),
+(134,717,ls),
+(75,717,o),
+(35,677,o),
+(35,618,cs),
+(35,428,o),
+(35,240,o),
+(25,52,cs),
+(21,-9,o),
+(75,-50,o),
+(134,-50,cs)
+);
+}
+);
+width = 270;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (110,0);
+},
+{
+name = ogonek;
+pos = (198,10);
+},
+{
+name = top;
+pos = (110,625);
+},
+{
+name = topleft;
+pos = (20,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (70,100);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(111,0,ls),
+(142,0,o),
+(172,18,o),
+(170,49,cs),
+(160,239,o),
+(160,428,o),
+(170,618,cs),
+(172,649,o),
+(142,667,o),
+(111,667,cs),
+(109,667,ls),
+(78,667,o),
+(60,649,o),
+(60,618,cs),
+(60,428,o),
+(60,239,o),
+(50,49,cs),
+(48,18,o),
+(78,0,o),
+(109,0,cs)
+);
+}
+);
+width = 230;
+}
+);
+metricLeft = "=H.salt";
+metricRight = "=H";
+note = I;
+}

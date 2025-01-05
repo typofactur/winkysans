@@ -1,0 +1,47 @@
+{
+glyphname = Wgrave;
+kernLeft = KO_W;
+kernRight = KO_W;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (128,125);
+ref = gravecomb;
+}
+);
+width = 766;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (128,125);
+ref = gravecomb;
+}
+);
+width = 766;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (128,125);
+ref = gravecomb;
+}
+);
+width = 767;
+}
+);
+unicode = 7808;
+}

@@ -1,0 +1,190 @@
+{
+glyphname = I.salt;
+kernRight = KO_H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (56,0);
+},
+{
+name = ogonek;
+pos = (146,10);
+},
+{
+name = top;
+pos = (157,625);
+},
+{
+name = topleft;
+pos = (74,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (16,100);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,0,ls),
+(88,0,o),
+(122,18,o),
+(125,49,cs),
+(145,239,o),
+(175,428,o),
+(215,618,cs),
+(222,649,o),
+(196,667,o),
+(165,667,cs),
+(163,667,ls),
+(132,667,o),
+(110,649,o),
+(105,618,cs),
+(75,428,o),
+(45,239,o),
+(5,49,cs),
+(-2,18,o),
+(24,0,o),
+(55,0,cs)
+);
+}
+);
+width = 220;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (83,0);
+},
+{
+name = ogonek;
+pos = (173,10);
+},
+{
+name = top;
+pos = (184,625);
+},
+{
+name = topleft;
+pos = (101,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (16,100);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-50,ls),
+(135,-50,o),
+(196,-9,o),
+(202,52,cs),
+(222,240,o),
+(252,427,o),
+(292,615,cs),
+(306,676,o),
+(259,717,o),
+(200,717,cs),
+(198,717,ls),
+(139,717,o),
+(92,677,o),
+(82,618,cs),
+(52,428,o),
+(22,240,o),
+(-18,52,cs),
+(-32,-9,o),
+(15,-50,o),
+(74,-50,cs)
+);
+}
+);
+width = 271;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (56,0);
+},
+{
+name = ogonek;
+pos = (146,10);
+},
+{
+name = top;
+pos = (157,625);
+},
+{
+name = topleft;
+pos = (74,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (16,100);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,0,ls),
+(88,0,o),
+(122,18,o),
+(125,49,cs),
+(145,239,o),
+(175,428,o),
+(215,618,cs),
+(222,649,o),
+(196,667,o),
+(165,667,cs),
+(163,667,ls),
+(132,667,o),
+(110,649,o),
+(105,618,cs),
+(75,428,o),
+(45,239,o),
+(5,49,cs),
+(-2,18,o),
+(24,0,o),
+(55,0,cs)
+);
+}
+);
+width = 229;
+}
+);
+note = I;
+}

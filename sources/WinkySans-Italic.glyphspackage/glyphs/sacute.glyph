@@ -1,0 +1,47 @@
+{
+glyphname = sacute;
+kernLeft = KO_s;
+kernRight = KO_s;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-5,0);
+ref = acutecomb;
+}
+);
+width = 368;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (1,0);
+ref = acutecomb;
+}
+);
+width = 379;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (37,0);
+ref = acutecomb;
+}
+);
+width = 445;
+}
+);
+unicode = 347;
+}

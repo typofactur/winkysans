@@ -1,0 +1,36 @@
+{
+glyphname = seven.osf;
+kernLeft = KO_seven;
+kernRight = KO_seven.osf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = seven;
+}
+);
+width = 444;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = seven;
+}
+);
+width = 538;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = seven;
+}
+);
+width = 425;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+}

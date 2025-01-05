@@ -1,0 +1,47 @@
+{
+glyphname = gbreve;
+kernLeft = KO_adieresis;
+kernRight = KO_g;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (55,0);
+ref = brevecomb;
+}
+);
+width = 515;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (55,0);
+ref = brevecomb;
+}
+);
+width = 515;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (60,0);
+ref = brevecomb;
+}
+);
+width = 525;
+}
+);
+unicode = 287;
+}

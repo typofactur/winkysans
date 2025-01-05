@@ -1,0 +1,36 @@
+{
+glyphname = six.osf;
+kernLeft = KO_six;
+kernRight = KO_six.osf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = six;
+}
+);
+width = 547;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = six;
+}
+);
+width = 557;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = six;
+}
+);
+width = 547;
+}
+);
+metricLeft = six;
+metricRight = six;
+}

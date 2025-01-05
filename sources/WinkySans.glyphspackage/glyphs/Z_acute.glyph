@@ -1,0 +1,47 @@
+{
+glyphname = Zacute;
+kernLeft = KO_Z;
+kernRight = KO_Z;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (-23,125);
+ref = acutecomb;
+}
+);
+width = 478;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (-10,125);
+ref = acutecomb;
+}
+);
+width = 499;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (40,125);
+ref = acutecomb;
+}
+);
+width = 592;
+}
+);
+unicode = 377;
+}

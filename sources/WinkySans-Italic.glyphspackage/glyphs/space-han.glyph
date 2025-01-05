@@ -1,0 +1,18 @@
+{
+glyphname = "space-han";
+layers = (
+{
+layerId = m005;
+width = 1000;
+},
+{
+layerId = m002;
+width = 1000;
+},
+{
+layerId = m003;
+width = 1000;
+}
+);
+unicode = 12288;
+}

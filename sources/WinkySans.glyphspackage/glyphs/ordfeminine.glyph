@@ -1,0 +1,45 @@
+{
+glyphname = ordfeminine;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,452);
+ref = a;
+scale = (0.5,0.5);
+}
+);
+width = 258;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (0,450);
+ref = a;
+scale = (0.5,0.5);
+}
+);
+width = 258;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,443);
+ref = a;
+scale = (0.5,0.5);
+}
+);
+width = 263;
+}
+);
+unicode = 170;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

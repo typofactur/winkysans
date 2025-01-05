@@ -1,0 +1,48 @@
+{
+glyphname = parenright;
+kernLeft = KO_parenright;
+kernRight = KO_parenright;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+pos = (332,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 332;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (365,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 364;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (327,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 327;
+}
+);
+metricLeft = "=n/2";
+metricRight = "=n";
+unicode = 41;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

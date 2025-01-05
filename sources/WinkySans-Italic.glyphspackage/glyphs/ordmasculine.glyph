@@ -1,0 +1,46 @@
+{
+glyphname = ordmasculine;
+kernLeft = KO_ordmasculine;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+pos = (52,452);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 255;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (51,450);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 255;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (50,443);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 265;
+}
+);
+unicode = 186;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

@@ -1,0 +1,50 @@
+{
+glyphname = hbar;
+kernRight = KO_n;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = h;
+},
+{
+alignment = -1;
+pos = (-43,-78);
+ref = macroncomb;
+}
+);
+width = 540;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = h;
+},
+{
+alignment = -1;
+pos = (-40,-78);
+ref = macroncomb;
+}
+);
+width = 540;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = h;
+},
+{
+alignment = -1;
+pos = (-50,-49);
+ref = macroncomb;
+}
+);
+width = 540;
+}
+);
+metricRight = "=h";
+unicode = 295;
+}

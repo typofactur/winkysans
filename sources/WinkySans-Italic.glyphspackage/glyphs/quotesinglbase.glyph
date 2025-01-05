@@ -1,0 +1,91 @@
+{
+glyphname = quotesinglbase;
+kernRight = KO_quotesinglbase;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = comma;
+}
+);
+width = 245;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = comma;
+}
+);
+width = 245;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-150,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (125,51);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = comma;
+}
+);
+width = 245;
+}
+);
+metricLeft = "=comma";
+metricRight = "=comma";
+note = comma;
+unicode = 8218;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

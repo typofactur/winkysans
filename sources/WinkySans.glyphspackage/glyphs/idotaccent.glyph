@@ -1,0 +1,46 @@
+{
+glyphname = idotaccent;
+kernLeft = KO_idotaccent;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = dotaccentcomb;
+}
+);
+width = 250;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = dotaccentcomb;
+}
+);
+width = 250;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = dotaccentcomb;
+}
+);
+width = 250;
+}
+);
+}

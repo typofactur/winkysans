@@ -1,0 +1,47 @@
+{
+glyphname = igrave;
+kernLeft = KO_igrave;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = gravecomb;
+}
+);
+width = 250;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = gravecomb;
+}
+);
+width = 250;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-125,0);
+ref = gravecomb;
+}
+);
+width = 250;
+}
+);
+unicode = 236;
+}

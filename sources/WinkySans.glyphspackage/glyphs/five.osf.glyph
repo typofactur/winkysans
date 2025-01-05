@@ -1,0 +1,36 @@
+{
+glyphname = five.osf;
+kernLeft = KO_five;
+kernRight = KO_five;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = five;
+}
+);
+width = 537;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = five;
+}
+);
+width = 562;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = five;
+}
+);
+width = 532;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

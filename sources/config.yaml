@@ -7,8 +7,8 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - WinkySans.glyphs
-  - WinkySans-Italic.glyphs
+  - WinkySans.glyphspackage
+  - WinkySans-Italic.glyphspackage
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Winky Sans"

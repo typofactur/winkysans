@@ -1,0 +1,47 @@
+{
+glyphname = ygrave;
+kernLeft = KO_y;
+kernRight = KO_yacute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (62,0);
+ref = gravecomb;
+}
+);
+width = 476;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (62,0);
+ref = gravecomb;
+}
+);
+width = 476;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (101,0);
+ref = gravecomb;
+}
+);
+width = 529;
+}
+);
+unicode = 7923;
+}

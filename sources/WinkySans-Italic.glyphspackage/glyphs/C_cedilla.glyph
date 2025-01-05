@@ -1,0 +1,47 @@
+{
+glyphname = Ccedilla;
+kernLeft = KO_O;
+kernRight = KO_C;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (-27,0);
+ref = cedillacomb;
+}
+);
+width = 444;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (-27,0);
+ref = cedillacomb;
+}
+);
+width = 451;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (-45,0);
+ref = cedillacomb;
+}
+);
+width = 488;
+}
+);
+unicode = 199;
+}

@@ -1,0 +1,136 @@
+{
+glyphname = fraction;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,-35,o),
+(70,-17,o),
+(78,-1,cs),
+(176,224,o),
+(284,448,o),
+(402,673,cs),
+(410,689,o),
+(396,704,o),
+(377,714,cs),
+(360,723,o),
+(345,718,o),
+(337,701,cs),
+(229,476,o),
+(121,252,o),
+(3,27,cs),
+(-6,10,o),
+(10,-14,o),
+(27,-23,cs)
+);
+}
+);
+width = 405;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(74,-65,o),
+(111,-40,o),
+(125,-12,c),
+(223,213,o),
+(330,437,o),
+(448,662,cs),
+(462,689,o),
+(447,718,o),
+(413,736,cs),
+(383,752,o),
+(352,741,o),
+(338,712,cs),
+(230,487,o),
+(123,263,o),
+(5,39,cs),
+(-10,10,o),
+(9,-29,o),
+(39,-45,cs)
+);
+}
+);
+width = 453;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,-31,o),
+(64,-16,o),
+(71,0,cs),
+(169,225,o),
+(277,449,o),
+(395,674,cs),
+(403,689,o),
+(387,701,o),
+(372,711,cs),
+(354,723,o),
+(343,715,o),
+(336,700,cs),
+(228,475,o),
+(120,251,o),
+(2,26,cs),
+(-6,10,o),
+(8,-12,o),
+(25,-21,cs)
+);
+}
+);
+width = 397;
+}
+);
+note = fraction;
+unicode = 8260;
+userData = {
+KernOnSpecialSpacing = {
+L = fraction;
+R = fraction;
+};
+};
+}

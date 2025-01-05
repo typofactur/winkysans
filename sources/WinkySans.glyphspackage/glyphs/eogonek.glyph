@@ -1,0 +1,46 @@
+{
+glyphname = eogonek;
+kernLeft = KO_e;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-61,21);
+ref = ogonekcomb;
+}
+);
+width = 483;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-57,19);
+ref = ogonekcomb;
+}
+);
+width = 483;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-28,9);
+ref = ogonekcomb;
+}
+);
+width = 505;
+}
+);
+unicode = 281;
+}

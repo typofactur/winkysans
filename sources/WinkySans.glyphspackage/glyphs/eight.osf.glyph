@@ -1,0 +1,36 @@
+{
+glyphname = eight.osf;
+kernLeft = KO_eight;
+kernRight = KO_eight;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 478;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 564;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 462;
+}
+);
+metricLeft = eight;
+metricRight = eight;
+}

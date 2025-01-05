@@ -1,0 +1,39 @@
+{
+glyphname = three.lf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (11,67);
+ref = three;
+}
+);
+width = 475;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (11,67);
+ref = three;
+}
+);
+width = 525;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (14,67);
+ref = three;
+}
+);
+width = 465;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

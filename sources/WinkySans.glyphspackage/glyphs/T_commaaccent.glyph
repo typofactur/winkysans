@@ -1,0 +1,47 @@
+{
+glyphname = Tcommaaccent;
+kernLeft = KO_T;
+kernRight = KO_T;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (126,0);
+ref = commaaccentcomb;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (87,0);
+ref = commaaccentcomb;
+}
+);
+width = 490;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (112,0);
+ref = commaaccentcomb;
+}
+);
+width = 540;
+}
+);
+unicode = 538;
+}

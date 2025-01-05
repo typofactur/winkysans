@@ -1,0 +1,47 @@
+{
+glyphname = Ucircumflex;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (54,125);
+ref = circumflexcomb;
+}
+);
+width = 519;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (80,125);
+ref = circumflexcomb;
+}
+);
+width = 545;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (130,125);
+ref = circumflexcomb;
+}
+);
+width = 619;
+}
+);
+unicode = 219;
+}
