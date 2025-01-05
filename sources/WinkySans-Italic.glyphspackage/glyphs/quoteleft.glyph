@@ -90,7 +90,6 @@ metricRight = "=comma";
 note = comma;
 unicode = 8216;
 userData = {
-KernOnName = quoteleft;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

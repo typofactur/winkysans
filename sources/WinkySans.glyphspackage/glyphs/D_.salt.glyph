@@ -1,6 +1,6 @@
 {
 glyphname = D.salt;
-kernLeft = KO_E;
+kernLeft = KO_N;
 kernRight = KO_O;
 layers = (
 {

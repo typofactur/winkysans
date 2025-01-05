@@ -1,7 +1,6 @@
 {
 glyphname = idieresis;
-kernLeft = KO_idieresis;
-kernRight = KO_imacron;
+kernRight = KO_iacute;
 layers = (
 {
 layerId = m003;

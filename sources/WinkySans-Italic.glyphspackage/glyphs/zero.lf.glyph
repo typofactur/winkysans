@@ -1,5 +1,6 @@
 {
 glyphname = zero.lf;
+kernLeft = KO_zero.lf;
 kernRight = KO_zero.lf;
 layers = (
 {

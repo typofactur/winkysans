@@ -1,6 +1,6 @@
 {
 glyphname = Lcaron;
-kernLeft = KO_N;
+kernLeft = KO_L;
 layers = (
 {
 layerId = m003;
@@ -35,11 +35,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (300,-33);
+pos = (280,-33);
 ref = caroncomb.alt;
 }
 );
-width = 495;
+width = 475;
 }
 );
 unicode = 317;

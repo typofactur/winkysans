@@ -1,7 +1,7 @@
 {
 glyphname = Lcommaaccent.loclMAH;
-kernLeft = KO_N;
-kernRight = KO_Lslash;
+kernLeft = KO_L;
+kernRight = KO_L;
 layers = (
 {
 layerId = m003;
@@ -36,11 +36,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (70,0);
+pos = (50,0);
 ref = commaaccentcomb;
 }
 );
-width = 495;
+width = 475;
 }
 );
 }

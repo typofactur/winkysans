@@ -1,6 +1,6 @@
 {
 glyphname = dcroat;
-kernLeft = KO_aacute;
+kernLeft = KO_a;
 kernRight = KO_dcroat;
 layers = (
 {

@@ -1,6 +1,7 @@
 {
 glyphname = comma;
 kernLeft = KO_comma;
+kernRight = KO_comma;
 layers = (
 {
 hints = (

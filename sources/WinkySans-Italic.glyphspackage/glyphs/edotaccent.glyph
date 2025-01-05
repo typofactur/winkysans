@@ -1,7 +1,7 @@
 {
 glyphname = edotaccent;
-kernLeft = KO_eacute;
-kernRight = KO_eacute;
+kernLeft = KO_e;
+kernRight = KO_e;
 layers = (
 {
 layerId = m003;

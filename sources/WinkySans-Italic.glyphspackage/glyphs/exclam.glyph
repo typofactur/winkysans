@@ -1,6 +1,7 @@
 {
 glyphname = exclam;
 kernLeft = KO_exclam;
+kernRight = KO_exclam;
 layers = (
 {
 hints = (

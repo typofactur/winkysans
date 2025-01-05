@@ -10,14 +10,27 @@ shapes = (
 ref = I;
 },
 {
-pos = (335,0);
+pos = (322,0);
 ref = J;
 }
 );
-width = 852;
+width = 839;
 },
 {
 layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (336,0);
+ref = J;
+}
+);
+width = 860;
+},
+{
+layerId = m002;
 shapes = (
 {
 ref = I;
@@ -27,20 +40,7 @@ pos = (350,0);
 ref = J;
 }
 );
-width = 874;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (372,0);
-ref = J;
-}
-);
-width = 959;
+width = 937;
 }
 );
 unicode = 306;

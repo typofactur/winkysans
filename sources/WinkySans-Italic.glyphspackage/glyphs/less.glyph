@@ -1,7 +1,6 @@
 {
 glyphname = less;
 kernLeft = KO_less;
-kernRight = KO_less;
 layers = (
 {
 hints = (

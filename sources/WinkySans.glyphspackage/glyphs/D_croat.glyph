@@ -1,7 +1,6 @@
 {
 glyphname = Dcroat;
-kernLeft = KO_Eth;
-kernRight = KO_D;
+kernRight = KO_Dcroat;
 layers = (
 {
 layerId = m003;
@@ -28,7 +27,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 619;
+width = 579;
 }
 );
 unicode = 272;

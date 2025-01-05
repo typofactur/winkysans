@@ -1,7 +1,7 @@
 {
 glyphname = four.osf;
 kernLeft = KO_four;
-kernRight = KO_four;
+kernRight = KO_four.osf;
 layers = (
 {
 layerId = m005;

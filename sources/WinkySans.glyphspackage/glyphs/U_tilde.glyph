@@ -36,11 +36,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (60,125);
+pos = (40,125);
 ref = tildecomb;
 }
 );
-width = 620;
+width = 600;
 }
 );
 unicode = 360;

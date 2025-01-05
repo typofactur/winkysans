@@ -1,7 +1,7 @@
 {
 glyphname = oacute;
-kernLeft = KO_eacute;
-kernRight = KO_oacute;
+kernLeft = KO_e;
+kernRight = KO_o;
 layers = (
 {
 layerId = m003;

@@ -1,6 +1,6 @@
 {
 glyphname = two.osf;
-kernLeft = KO_two;
+kernLeft = KO_two.osf;
 kernRight = KO_two.osf;
 layers = (
 {

@@ -1,5 +1,6 @@
 {
 glyphname = nine.lf;
+kernRight = KO_nine.lf;
 layers = (
 {
 hints = (

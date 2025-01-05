@@ -1,7 +1,7 @@
 {
 glyphname = icircumflex;
 kernLeft = KO_icircumflex;
-kernRight = KO_imacron;
+kernRight = KO_icircumflex;
 layers = (
 {
 layerId = m003;

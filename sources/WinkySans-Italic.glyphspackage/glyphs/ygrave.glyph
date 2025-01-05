@@ -1,7 +1,7 @@
 {
 glyphname = ygrave;
 kernLeft = KO_y;
-kernRight = KO_yacute;
+kernRight = KO_y;
 layers = (
 {
 layerId = m003;

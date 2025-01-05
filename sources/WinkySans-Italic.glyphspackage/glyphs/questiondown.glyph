@@ -1,6 +1,5 @@
 {
 glyphname = questiondown;
-kernRight = KO_questiondown;
 layers = (
 {
 hints = (

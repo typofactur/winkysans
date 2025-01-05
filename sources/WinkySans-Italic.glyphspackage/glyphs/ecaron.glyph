@@ -1,6 +1,6 @@
 {
 glyphname = ecaron;
-kernLeft = KO_eacute;
+kernLeft = KO_odieresis;
 kernRight = KO_eacute;
 layers = (
 {

@@ -1,6 +1,6 @@
 {
 glyphname = idotaccent;
-kernLeft = KO_idotaccent;
+kernLeft = KO_h;
 kernRight = KO_iacute;
 layers = (
 {

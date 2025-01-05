@@ -10,11 +10,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (-14,125);
+pos = (36,125);
 ref = acutecomb;
 }
 );
-width = 479;
+width = 529;
 },
 {
 layerId = m005;
@@ -23,11 +23,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (1,125);
+pos = (26,125);
 ref = acutecomb;
 }
 );
-width = 509;
+width = 534;
 },
 {
 layerId = m002;

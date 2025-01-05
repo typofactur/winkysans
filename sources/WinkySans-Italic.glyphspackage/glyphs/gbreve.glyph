@@ -1,6 +1,6 @@
 {
 glyphname = gbreve;
-kernLeft = KO_adieresis;
+kernLeft = KO_atilde;
 kernRight = KO_g;
 layers = (
 {

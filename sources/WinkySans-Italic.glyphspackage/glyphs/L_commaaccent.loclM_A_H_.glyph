@@ -1,7 +1,7 @@
 {
 glyphname = Lcommaaccent.loclMAH;
-kernLeft = KO_N;
-kernRight = KO_Lslash;
+kernLeft = KO_L;
+kernRight = KO_L;
 layers = (
 {
 layerId = m003;

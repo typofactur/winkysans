@@ -1,6 +1,6 @@
 {
 glyphname = seven.osf;
-kernLeft = KO_seven;
+kernLeft = KO_seven.osf;
 kernRight = KO_seven.osf;
 layers = (
 {
@@ -19,7 +19,7 @@ shapes = (
 ref = seven;
 }
 );
-width = 542;
+width = 537;
 },
 {
 layerId = m003;

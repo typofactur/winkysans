@@ -1,6 +1,6 @@
 {
 glyphname = rcaron;
-kernLeft = KO_idotaccent;
+kernLeft = KO_r;
 kernRight = KO_r;
 layers = (
 {

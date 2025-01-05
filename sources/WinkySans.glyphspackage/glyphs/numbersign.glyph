@@ -1,6 +1,5 @@
 {
 glyphname = numbersign;
-kernLeft = KO_numbersign;
 kernRight = KO_numbersign;
 layers = (
 {

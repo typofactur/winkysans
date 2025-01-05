@@ -1,6 +1,6 @@
 {
 glyphname = uhungarumlaut;
-kernLeft = KO_uacute;
+kernLeft = KO_u;
 kernRight = KO_u;
 layers = (
 {

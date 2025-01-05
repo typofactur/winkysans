@@ -92,6 +92,7 @@ Changelog example:
 
 **05 January 2025. Version 1.201**
 - fractions
+- kerning with Kern On
 
 
 ## License

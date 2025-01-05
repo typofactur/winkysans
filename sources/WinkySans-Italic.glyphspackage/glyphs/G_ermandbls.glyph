@@ -1,6 +1,6 @@
 {
 glyphname = Germandbls;
-kernLeft = KO_N;
+kernLeft = KO_L;
 kernRight = KO_S;
 layers = (
 {
@@ -201,4 +201,7 @@ width = 574;
 );
 metricRight = "=S";
 unicode = 7838;
+userData = {
+KernOnName = Germandbls;
+};
 }

@@ -1,7 +1,7 @@
 {
 glyphname = omacron;
 kernLeft = KO_emacron;
-kernRight = KO_oacute;
+kernRight = KO_odieresis;
 layers = (
 {
 layerId = m003;

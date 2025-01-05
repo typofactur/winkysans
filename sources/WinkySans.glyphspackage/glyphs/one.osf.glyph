@@ -1,7 +1,7 @@
 {
 glyphname = one.osf;
-kernLeft = KO_one;
-kernRight = KO_one;
+kernLeft = KO_one.osf;
+kernRight = KO_one.osf;
 layers = (
 {
 layerId = m005;
@@ -19,7 +19,7 @@ shapes = (
 ref = one;
 }
 );
-width = 470;
+width = 460;
 },
 {
 layerId = m003;

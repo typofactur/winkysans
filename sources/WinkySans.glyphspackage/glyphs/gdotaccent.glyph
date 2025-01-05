@@ -1,6 +1,6 @@
 {
 glyphname = gdotaccent;
-kernLeft = KO_a;
+kernLeft = KO_aacute;
 kernRight = KO_g;
 layers = (
 {

@@ -36,11 +36,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (270,0);
+pos = (268,0);
 ref = j;
 }
 );
-width = 529;
+width = 527;
 }
 );
 unicode = 307;

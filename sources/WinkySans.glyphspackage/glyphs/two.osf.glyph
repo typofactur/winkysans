@@ -1,6 +1,6 @@
 {
 glyphname = two.osf;
-kernLeft = KO_two;
+kernLeft = KO_two.osf;
 kernRight = KO_two.osf;
 layers = (
 {
@@ -19,7 +19,7 @@ shapes = (
 ref = two;
 }
 );
-width = 560;
+width = 550;
 },
 {
 layerId = m003;
