@@ -14,11 +14,12 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkysans%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkysans%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Winky Sans looks like the sober, grown-up cousin of Comic Sans. Informal and personable, but not silly.</p>
+Winky Sans looks like the sober, grown-up cousin of Comic Sans. Informal and personable, but not silly.
 
 Based on Aniva Sans, the letter shapes are rounded and thickened at the endings, and little irregularities were added, wich results in the impression of handwriting.
 
-Winky Sans is a variable font with a weight axis that ranges from Light (300) to Black (900). But be careful! Like flowing ink on paper the forms grows in all directions.
+Winky Sans is a variable font with a weight axis that ranges from Light (300) to Black (900).
+Watch out! Like flowing ink on paper the forms grows in all directions.
 While the slim weights might have been written with a fineliner, the black style look like ink blots from a broken pen.
 
 See also Winky Rough, an alternative version of the font imitating dried ink on rough paper.

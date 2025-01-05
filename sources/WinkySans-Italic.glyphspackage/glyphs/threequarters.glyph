@@ -39,14 +39,42 @@ type = Stem;
 horizontal = 1;
 place = (103,51);
 type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (-20,405);
+type = Stem;
 }
 );
 layerId = m005;
 shapes = (
 {
-pos = (98,0);
-ref = fraction;
-slant = (9.0986,0);
+closed = 1;
+nodes = (
+(-2,-35,o),
+(30,-17,o),
+(47,-1,cs),
+(264,224,o),
+(492,448,o),
+(730,673,cs),
+(746,689,o),
+(740,704,o),
+(727,714,cs),
+(714,723,o),
+(696,718,o),
+(679,701,cs),
+(451,476,o),
+(224,252,o),
+(-14,27,cs),
+(-31,10,o),
+(-28,-14,o),
+(-17,-23,cs)
+);
 },
 {
 closed = 1;
@@ -206,14 +234,42 @@ type = Stem;
 horizontal = 1;
 place = (103,51);
 type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (10,405);
+type = Stem;
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (128,0);
-ref = fraction;
-slant = (9.0986,0);
+closed = 1;
+nodes = (
+(39,-65,o),
+(89,-40,o),
+(118,-12,c),
+(336,213,o),
+(562,437,o),
+(800,662,cs),
+(828,689,o),
+(828,718,o),
+(805,736,cs),
+(783,752,o),
+(746,741,o),
+(717,712,cs),
+(489,487,o),
+(262,263,o),
+(25,39,cs),
+(-5,10,o),
+(-7,-29,o),
+(14,-45,cs)
+);
 },
 {
 closed = 1;
@@ -373,14 +429,42 @@ type = Stem;
 horizontal = 1;
 place = (103,51);
 type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (-21,405);
+type = Stem;
 }
 );
 layerId = m003;
 shapes = (
 {
-pos = (99,0);
-ref = fraction;
-slant = (9.0986,0);
+closed = 1;
+nodes = (
+(-2,-31,o),
+(25,-16,o),
+(41,0,cs),
+(258,225,o),
+(487,449,o),
+(724,674,cs),
+(740,689,o),
+(730,701,o),
+(721,711,cs),
+(709,723,o),
+(695,715,o),
+(678,700,cs),
+(451,475,o),
+(223,251,o),
+(-14,26,cs),
+(-30,10,o),
+(-28,-12,o),
+(-16,-21,cs)
+);
 },
 {
 closed = 1;
