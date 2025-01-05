@@ -110,7 +110,7 @@ nodes = (
 );
 }
 );
-width = 506;
+width = 546;
 },
 {
 hints = (
