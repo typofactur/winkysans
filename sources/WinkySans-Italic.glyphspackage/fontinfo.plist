@@ -10103,8 +10103,6 @@ F = -6;
 Lslash = 0;
 Schwa = -10;
 };
-D.salt = {
-};
 E = {
 Lslash = -21;
 at = -30;
@@ -22193,8 +22191,6 @@ F = 0;
 Lslash = 27;
 Schwa = -2;
 };
-D.salt = {
-};
 E = {
 Lslash = 0;
 at = -41;
@@ -34282,8 +34278,6 @@ AE = -29;
 F = 13;
 Lslash = 9;
 Schwa = 42;
-};
-D.salt = {
 };
 E = {
 Lslash = -35;

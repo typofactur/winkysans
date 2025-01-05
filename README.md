@@ -87,6 +87,7 @@ Changelog example:
 - Italic 9° instead if 12°
 - Schwa, H, H.salt
 - glyphspackage instead of glyphs
+- mark ogonek in dottedcircle
 
 
 ## License
