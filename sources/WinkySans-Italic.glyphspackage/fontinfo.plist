@@ -662,7 +662,6 @@ instanceInterpolations = {
 m002 = 0.6;
 m005 = 0.4;
 };
-isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
 name = "Bold Italic";
