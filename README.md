@@ -18,9 +18,8 @@ Winky Sans looks like the sober, grown-up cousin of Comic Sans. Informal and per
 
 Based on Aniva Sans, the letter shapes are rounded and thickened at the endings, and little irregularities were added, wich results in the impression of handwriting.
 
-Winky Sans is a variable font with a weight axis that ranges from Light (300) to Black (900).
-Watch out! Like flowing ink on paper the forms grows in all directions.
-While the slim weights might have been written with a fineliner, the black style look like ink blots from a broken pen.
+Winky Sans is a variable font with a weight axis that ranges from Light (300) to Black (900) and has matching italic styles.
+Watch out! Like flowing ink on paper the forms grows in all directions. While the slim weights might have been written with a fineliner, the black style look like ink blots from a broken pen.
 
 See also Winky Rough, an alternative version of the font imitating dried ink on rough paper.
 
