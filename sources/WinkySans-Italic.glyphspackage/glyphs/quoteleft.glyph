@@ -24,7 +24,7 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (326,560);
+pos = (254,560);
 ref = comma;
 }
 );
@@ -51,7 +51,7 @@ layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (335,560);
+pos = (254,560);
 ref = comma;
 }
 );
@@ -78,15 +78,15 @@ layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (340,560);
+pos = (254,560);
 ref = comma;
 }
 );
 width = 245;
 }
 );
-metricLeft = "=comma";
-metricRight = "=comma";
+metricLeft = "=|comma";
+metricRight = "=|comma";
 note = comma;
 unicode = 8216;
 userData = {

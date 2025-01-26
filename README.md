@@ -106,6 +106,9 @@ Changelog example:
 - italic angle: decomposed components exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright
 - spacing backslash, quotedbleft, quoteleft
 
+**26 January 2025. Version 1.204**
+- italic angle eth
+
 
 ## License
 
