@@ -10,7 +10,7 @@ shapes = (
 ref = one;
 }
 );
-width = 383;
+width = 382;
 },
 {
 layerId = m002;
@@ -19,7 +19,7 @@ shapes = (
 ref = one;
 }
 );
-width = 465;
+width = 464;
 },
 {
 layerId = m003;
@@ -28,7 +28,7 @@ shapes = (
 ref = one;
 }
 );
-width = 358;
+width = 357;
 }
 );
 metricLeft = one;

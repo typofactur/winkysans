@@ -80,7 +80,7 @@ nodes = (
 );
 }
 );
-width = 518;
+width = 514;
 },
 {
 hints = (
@@ -159,7 +159,7 @@ nodes = (
 );
 }
 );
-width = 568;
+width = 564;
 },
 {
 hints = (
@@ -238,7 +238,7 @@ nodes = (
 );
 }
 );
-width = 499;
+width = 495;
 }
 );
 metricRight = "=O";

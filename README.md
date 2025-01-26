@@ -94,6 +94,18 @@ Changelog example:
 - kerning with Kern On
 - L
 
+**26 January 2025. Version 1.202**
+- position brevecomb
+- commaaccentcomb thicker
+- ogonekcomb thicker
+- dotaccentcomb bigger
+- hungarumlautcomb: thicker and position
+- spacing: 4, A, V, Y
+
+**26 January 2025. Version 1.203**
+- italic angle: decomposed components exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright
+- spacing backslash, quotedbleft, quoteleft
+
 
 ## License
 
