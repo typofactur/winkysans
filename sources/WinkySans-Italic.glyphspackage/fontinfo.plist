@@ -622,7 +622,7 @@ instanceInterpolations = {
 m005 = 1;
 };
 isItalic = 1;
-name = "Regular Italic";
+name = Italic;
 },
 {
 axesValues = (
