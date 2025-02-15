@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3340";
 .formatVersion = 3;
 axes = (
 {
@@ -15,10 +15,6 @@ name = Uppercase;
 }
 );
 customParameters = (
-{
-name = "Name Table Entry";
-value = "13; This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
-},
 {
 name = fsType;
 value = (
@@ -446,7 +442,7 @@ pos = -200;
 pos = 9;
 }
 );
-name = "Regular Italic";
+name = Italic;
 userData = {
 GSCornerRadius = 10;
 GSOffsetHorizontal = 5;
@@ -626,7 +622,7 @@ instanceInterpolations = {
 m005 = 1;
 };
 isItalic = 1;
-name = "Regular Italic";
+name = Italic;
 },
 {
 axesValues = (
@@ -36362,7 +36358,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "SIL Open Font License, Version 1.1. ";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },

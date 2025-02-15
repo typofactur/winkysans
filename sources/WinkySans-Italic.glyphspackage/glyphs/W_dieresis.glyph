@@ -23,7 +23,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (225,125);
+pos = (220,125);
 ref = dieresiscomb;
 }
 );
