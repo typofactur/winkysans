@@ -6,48 +6,45 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (-21,0);
 ref = T;
 },
 {
 alignment = -1;
-pos = (421,0);
+pos = (442,0);
 ref = M;
 }
 );
-width = 1140;
+width = 1173;
 },
 {
 layerId = m005;
 shapes = (
 {
 alignment = -1;
-pos = (-20,0);
 ref = T;
 },
 {
 alignment = -1;
-pos = (430,0);
+pos = (450,0);
 ref = M;
 }
 );
-width = 1150;
+width = 1181;
 },
 {
 layerId = m002;
 shapes = (
 {
 alignment = -1;
-pos = (-19,0);
 ref = T;
 },
 {
 alignment = -1;
-pos = (456,0);
+pos = (475,0);
 ref = M;
 }
 );
-width = 1178;
+width = 1206;
 }
 );
 metricLeft = "=T";

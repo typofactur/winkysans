@@ -6,50 +6,41 @@ layers = (
 layerId = m003;
 shapes = (
 {
-alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (183,0);
+pos = (201,0);
 ref = caroncomb.alt;
 }
 );
-width = 312;
+width = 294;
 },
 {
 layerId = m005;
 shapes = (
 {
-alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (191,0);
+pos = (211,0);
 ref = caroncomb.alt;
 }
 );
-width = 332;
+width = 293;
 },
 {
 layerId = m002;
 shapes = (
 {
-alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (244,0);
+pos = (266,0);
 ref = caroncomb.alt;
 }
 );
-width = 377;
+width = 304;
 }
 );
 unicode = 318;
-userData = {
-KernOnName = lcaron;
-};
 }
