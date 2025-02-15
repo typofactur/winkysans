@@ -874,14 +874,25 @@ period = -40;
 quotedbl = 20;
 quotesingle = 20;
 };
+h = {
+i = -23;
+};
 hyphen = {
 T = -80;
 };
+i = {
+j = -15;
+};
+j = {
+k = -15;
+};
 k = {
+l = -20;
 lcaron = -20;
 tcaron = -5;
 };
 l = {
+t = -25;
 y = -40;
 };
 lcaron = {
@@ -1078,41 +1089,78 @@ comma = -40;
 };
 };
 m002 = {
-F = {
-A = -90;
-J = -120;
-};
-k = {
-j = -2;
-l = -6;
-lcaron = -6;
-tcaron = -14;
-};
-H = {
-quotesingle = 0;
-};
-j = {
-k = -6;
-};
-g = {
-j = 30;
-};
-X = {
-v = -60;
+A = {
+V = -70;
+period = 10;
+quotesingle = -40;
 };
 C = {
 period = 10;
 };
-n = {
-t = -10;
+E = {
+O = -10;
+};
+F = {
+A = -90;
+J = -120;
+};
+H = {
+quotesingle = 0;
+};
+I = {
+C = 20;
+N = 20;
+};
+L = {
+A = 0;
+I = 20;
+L = 0;
+v = -100;
+};
+P = {
+comma = -140;
+period = -140;
+quotedblleft = 0;
+quoteleft = 0;
+quoteright = -20;
+};
+Q = {
+u = 15;
+};
+R = {
+comma = -5;
+period = -5;
+};
+S = {
+T = -50;
+comma = 0;
+period = 0;
+quotesingle = -20;
+y = -30;
 };
 T = {
 o = -120;
 r = -100;
 y = -100;
 };
-quotedbl = {
-A = -120;
+V = {
+V = 60;
+d = -30;
+o = -40;
+};
+X = {
+v = -60;
+};
+Y = {
+O = 0;
+comma = -100;
+d = -80;
+};
+b = {
+f = -6;
+};
+c = {
+t = -5;
 };
 dcaron = {
 b = 50;
@@ -1123,6 +1171,85 @@ j = 70;
 k = 60;
 l = 50;
 t = 40;
+};
+e = {
+colon = 0;
+t = -10;
+};
+f = {
+comma = -100;
+h = -17;
+period = -70;
+t = -10;
+};
+g = {
+j = 30;
+};
+h = {
+i = -3;
+};
+i = {
+f = 0;
+j = -2;
+n = -2;
+};
+j = {
+k = -6;
+};
+k = {
+j = -2;
+l = -6;
+lcaron = -6;
+tcaron = -14;
+};
+l = {
+lcaron = 0;
+t = -35;
+y = -50;
+};
+lcaron = {
+b = 50;
+f = 30;
+h = 50;
+i = 50;
+j = 70;
+k = 50;
+l = 50;
+t = 50;
+};
+n = {
+t = -10;
+};
+o = {
+comma = -10;
+};
+p = {
+a = 0;
+};
+parenleft = {
+I = 0;
+O = -60;
+};
+quotedbl = {
+A = -120;
+};
+r = {
+period = -150;
+quotedblleft = -20;
+quoteleft = -20;
+quoteright = -40;
+};
+s = {
+comma = 0;
+p = 0;
+period = 0;
+};
+slash = {
+slash = -100;
+};
+t = {
+w = 0;
+z = -10;
 };
 tcaron = {
 b = 80;
@@ -1136,122 +1263,6 @@ t = 40;
 };
 z = {
 period = 10;
-};
-V = {
-V = 60;
-d = -30;
-o = -40;
-};
-R = {
-period = -5;
-comma = -5;
-};
-c = {
-t = -5;
-};
-slash = {
-slash = -100;
-};
-l = {
-lcaron = 0;
-t = -35;
-y = -50;
-};
-r = {
-period = -150;
-quotedblleft = -20;
-quoteleft = -20;
-quoteright = -40;
-};
-e = {
-t = -10;
-colon = 0;
-};
-I = {
-C = 20;
-N = 20;
-};
-f = {
-h = -17;
-t = -10;
-period = -70;
-comma = -100;
-};
-Y = {
-O = 0;
-d = -80;
-comma = -100;
-};
-s = {
-p = 0;
-period = 0;
-comma = 0;
-};
-parenleft = {
-I = 0;
-O = -60;
-};
-P = {
-period = -140;
-comma = -140;
-quotedblleft = 0;
-quoteleft = 0;
-quoteright = -20;
-};
-lcaron = {
-b = 50;
-f = 30;
-h = 50;
-i = 50;
-j = 70;
-k = 50;
-l = 50;
-t = 50;
-};
-h = {
-i = -3;
-};
-Q = {
-u = 15;
-};
-A = {
-V = -70;
-period = 10;
-quotesingle = -40;
-};
-o = {
-comma = -10;
-};
-t = {
-w = 0;
-z = -10;
-};
-S = {
-T = -50;
-y = -30;
-period = 0;
-comma = 0;
-quotesingle = -20;
-};
-E = {
-O = -10;
-};
-L = {
-A = 0;
-I = 20;
-L = 0;
-v = -100;
-};
-p = {
-a = 0;
-};
-i = {
-f = 0;
-j = -2;
-n = -2;
-};
-b = {
-f = -6;
 };
 };
 };

@@ -9,11 +9,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (217,-33);
+pos = (335,-33);
 ref = caroncomb.alt;
 }
 );
-width = 360;
+width = 410;
 },
 {
 layerId = m005;
@@ -22,11 +22,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (240,-33);
+pos = (345,-33);
 ref = caroncomb.alt;
 }
 );
-width = 385;
+width = 410;
 },
 {
 layerId = m002;
@@ -35,11 +35,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (280,-33);
+pos = (455,-33);
 ref = caroncomb.alt;
 }
 );
-width = 475;
+width = 495;
 }
 );
 unicode = 317;

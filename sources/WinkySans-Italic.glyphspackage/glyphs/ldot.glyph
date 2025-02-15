@@ -2,6 +2,17 @@
 glyphname = ldot;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (37,120);
+type = Stem;
+}
+);
 layerId = m005;
 shapes = (
 {
@@ -9,12 +20,37 @@ alignment = -1;
 ref = l;
 },
 {
-ref = periodcentered;
+closed = 1;
+nodes = (
+(299,185,o),
+(336,215,o),
+(345,255,cs),
+(353,294,o),
+(329,325,o),
+(290,325,cs),
+(250,325,o),
+(213,294,o),
+(205,255,cs),
+(196,215,o),
+(220,185,o),
+(260,185,cs)
+);
 }
 );
 width = 394;
 },
 {
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (37,120);
+type = Stem;
+}
+);
 layerId = m003;
 shapes = (
 {
@@ -22,12 +58,37 @@ alignment = -1;
 ref = l;
 },
 {
-ref = periodcentered;
+closed = 1;
+nodes = (
+(298,195,o),
+(330,221,o),
+(335,255,cs),
+(340,288,o),
+(318,315,o),
+(285,315,cs),
+(251,315,o),
+(220,288,o),
+(215,255,cs),
+(210,221,o),
+(231,195,o),
+(265,195,cs)
+);
 }
 );
 width = 394;
 },
 {
+hints = (
+{
+horizontal = 1;
+place = (228,120);
+type = Stem;
+},
+{
+place = (107,120);
+type = Stem;
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -35,8 +96,21 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (70,35);
-ref = periodcentered;
+closed = 1;
+nodes = (
+(381,185,o),
+(437,231,o),
+(450,290,cs),
+(462,348,o),
+(425,395,o),
+(367,395,cs),
+(308,395,o),
+(252,348,o),
+(240,290,cs),
+(227,231,o),
+(264,185,o),
+(323,185,cs)
+);
 }
 );
 width = 454;

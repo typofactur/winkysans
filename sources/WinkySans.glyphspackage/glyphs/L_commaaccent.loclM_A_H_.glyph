@@ -10,11 +10,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (66,0);
+pos = (91,0);
 ref = commaaccentcomb;
 }
 );
-width = 360;
+width = 410;
 },
 {
 layerId = m005;
@@ -23,11 +23,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (35,0);
+pos = (47,0);
 ref = commaaccentcomb;
 }
 );
-width = 385;
+width = 410;
 },
 {
 layerId = m002;
@@ -36,11 +36,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (50,0);
+pos = (90,0);
 ref = commaaccentcomb;
 }
 );
-width = 475;
+width = 495;
 }
 );
 }

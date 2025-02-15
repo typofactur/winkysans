@@ -117,6 +117,8 @@ Changelog example:
 - Hbar italic
 - Thorn thin
 - Germandbls thin
+- spacing L, Ldot
+- Ldot, ldot no decomposed
 
 
 ## License

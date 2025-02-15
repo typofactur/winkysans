@@ -3,41 +3,115 @@ glyphname = Ldot;
 kernLeft = KO_L;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (78,120);
+type = Stem;
+}
+);
 layerId = m003;
 shapes = (
 {
 ref = L;
 },
 {
-ref = periodcentered;
+closed = 1;
+nodes = (
+(328,195,o),
+(355,221,o),
+(355,255,cs),
+(355,288,o),
+(328,315,o),
+(295,315,c),
+(261,315,o),
+(235,288,o),
+(235,255,cs),
+(235,221,o),
+(261,195,o),
+(295,195,cs)
+);
 }
 );
-width = 360;
+width = 410;
 },
 {
+hints = (
+{
+horizontal = 1;
+place = (193,120);
+type = Stem;
+},
+{
+place = (78,120);
+type = Stem;
+}
+);
 layerId = m005;
 shapes = (
 {
 ref = L;
 },
 {
-ref = periodcentered;
+closed = 1;
+nodes = (
+(334,185,o),
+(365,215,o),
+(365,255,cs),
+(365,294,o),
+(334,325,o),
+(295,325,cs),
+(255,325,o),
+(225,294,o),
+(225,255,cs),
+(225,215,o),
+(255,185,o),
+(295,185,cs)
+);
 }
 );
-width = 385;
+width = 410;
 },
 {
+hints = (
+{
+horizontal = 1;
+place = (273,120);
+type = Stem;
+},
+{
+place = (158,120);
+type = Stem;
+}
+);
 layerId = m002;
 shapes = (
 {
 ref = L;
 },
 {
-pos = (80,80);
-ref = periodcentered;
+closed = 1;
+nodes = (
+(413,230,o),
+(460,276,o),
+(460,335,cs),
+(460,393,o),
+(413,440,o),
+(355,440,cs),
+(296,440,o),
+(250,393,o),
+(250,335,cs),
+(250,276,o),
+(296,230,o),
+(355,230,cs)
+);
 }
 );
-width = 475;
+width = 495;
 }
 );
 metricLeft = "=L";
