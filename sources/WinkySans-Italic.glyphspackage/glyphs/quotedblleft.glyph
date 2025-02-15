@@ -23,15 +23,14 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (267,0);
+pos = (195,0);
 ref = quoteleft;
 },
 {
-pos = (72,0);
 ref = quoteleft;
 }
 );
-width = 439;
+width = 429;
 },
 {
 hints = (
@@ -53,11 +52,11 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
-pos = (276,0);
+pos = (200,0);
 ref = quoteleft;
 },
 {
-pos = (81,0);
+pos = (5,0);
 ref = quoteleft;
 }
 );
@@ -83,11 +82,10 @@ type = Stem;
 layerId = m003;
 shapes = (
 {
-pos = (281,0);
+pos = (195,0);
 ref = quoteleft;
 },
 {
-pos = (86,0);
 ref = quoteleft;
 }
 );
@@ -99,7 +97,6 @@ metricRight = "=comma";
 note = comma;
 unicode = 8220;
 userData = {
-KernOnName = quotedblleft;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;
