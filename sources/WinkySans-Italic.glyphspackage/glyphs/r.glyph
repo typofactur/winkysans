@@ -238,7 +238,4 @@ width = 390;
 metricLeft = "=n";
 note = r;
 unicode = 114;
-userData = {
-KernOnName = r;
-};
 }

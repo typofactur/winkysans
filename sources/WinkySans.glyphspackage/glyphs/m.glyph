@@ -332,4 +332,7 @@ metricLeft = "=n";
 metricRight = "=n";
 note = m;
 unicode = 109;
+userData = {
+KernOnName = m;
+};
 }

@@ -1,5 +1,6 @@
 {
 glyphname = ampersand;
+kernRight = KO_ampersand;
 layers = (
 {
 hints = (

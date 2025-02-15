@@ -30,7 +30,7 @@ ref = quoteleft;
 ref = quoteleft;
 }
 );
-width = 440;
+width = 430;
 },
 {
 hints = (

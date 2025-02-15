@@ -135,7 +135,6 @@ metricRight = "=n";
 note = underscore;
 unicode = 95;
 userData = {
-KernOnName = underscore;
 KernOnSpecialSpacing = {
 L = underscore;
 R = underscore;

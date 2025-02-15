@@ -1,5 +1,7 @@
 {
 glyphname = two.lf;
+kernLeft = KO_two.lf;
+kernRight = KO_two.lf;
 layers = (
 {
 hints = (

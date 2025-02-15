@@ -1,6 +1,6 @@
 {
 glyphname = B;
-kernLeft = KO_B;
+kernLeft = KO_D;
 kernRight = KO_B;
 layers = (
 {
@@ -336,7 +336,4 @@ width = 506;
 );
 note = P;
 unicode = 66;
-userData = {
-KernOnName = B;
-};
 }

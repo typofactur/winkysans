@@ -27,7 +27,7 @@ pos = (95,600);
 ref = comma;
 }
 );
-width = 245;
+width = 235;
 },
 {
 hints = (
@@ -87,7 +87,6 @@ metricRight = "=comma";
 note = comma;
 unicode = 8217;
 userData = {
-KernOnName = quoteright;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

@@ -1,7 +1,7 @@
 {
 glyphname = j;
 kernLeft = KO_j;
-kernRight = KO_i;
+kernRight = KO_j;
 layers = (
 {
 hints = (
@@ -196,4 +196,7 @@ width = 260;
 metricRight = "=i";
 note = j;
 unicode = 106;
+userData = {
+KernOnName = j;
+};
 }

@@ -1,6 +1,6 @@
 {
 glyphname = ccaron;
-kernLeft = KO_odieresis;
+kernLeft = KO_eacute;
 kernRight = KO_c;
 layers = (
 {

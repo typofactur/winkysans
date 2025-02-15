@@ -1,6 +1,6 @@
 {
 glyphname = Lslash;
-kernRight = KO_L;
+kernRight = KO_Lslash;
 layers = (
 {
 hints = (
@@ -110,7 +110,7 @@ nodes = (
 );
 }
 );
-width = 546;
+width = 526;
 },
 {
 hints = (

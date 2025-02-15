@@ -1,7 +1,7 @@
 {
 glyphname = eogonek;
 kernLeft = KO_e;
-kernRight = KO_e;
+kernRight = KO_eacute;
 layers = (
 {
 layerId = m003;

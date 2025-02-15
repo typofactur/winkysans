@@ -1,0 +1,46 @@
+{
+glyphname = Ldot;
+kernLeft = KO_L;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+width = 360;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+width = 385;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (80,80);
+ref = periodcentered;
+}
+);
+width = 475;
+}
+);
+metricLeft = "=L";
+metricRight = "=L";
+unicode = 319;
+}

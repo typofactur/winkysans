@@ -1,7 +1,7 @@
 {
 glyphname = ij;
 kernLeft = KO_i;
-kernRight = KO_i;
+kernRight = KO_j;
 layers = (
 {
 layerId = m003;
@@ -10,11 +10,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (254,0);
+pos = (257,0);
 ref = j;
 }
 );
-width = 514;
+width = 517;
 },
 {
 layerId = m005;
@@ -23,11 +23,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (240,0);
+pos = (244,0);
 ref = j;
 }
 );
-width = 498;
+width = 502;
 },
 {
 layerId = m002;
@@ -36,11 +36,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (264,0);
+pos = (270,0);
 ref = j;
 }
 );
-width = 519;
+width = 525;
 }
 );
 unicode = 307;

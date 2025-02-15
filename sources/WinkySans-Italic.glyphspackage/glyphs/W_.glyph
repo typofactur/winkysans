@@ -311,7 +311,4 @@ metricLeft = "=V";
 metricRight = "=V";
 note = W;
 unicode = 87;
-userData = {
-KernOnName = W;
-};
 }

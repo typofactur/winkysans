@@ -1,7 +1,6 @@
 {
 glyphname = eth;
 kernLeft = KO_eth;
-kernRight = KO_p;
 layers = (
 {
 hints = (

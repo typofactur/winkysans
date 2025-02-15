@@ -33,7 +33,7 @@ pos = (195,0);
 ref = comma;
 }
 );
-width = 440;
+width = 430;
 },
 {
 hints = (

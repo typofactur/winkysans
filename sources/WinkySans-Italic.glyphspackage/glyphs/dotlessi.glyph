@@ -1,7 +1,7 @@
 {
 glyphname = dotlessi;
 kernLeft = KO_r;
-kernRight = KO_u;
+kernRight = KO_dotlessi;
 layers = (
 {
 anchors = (

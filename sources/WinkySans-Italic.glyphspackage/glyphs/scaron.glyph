@@ -1,7 +1,7 @@
 {
 glyphname = scaron;
-kernLeft = KO_s;
-kernRight = KO_s;
+kernLeft = KO_scaron;
+kernRight = KO_scaron;
 layers = (
 {
 layerId = m003;

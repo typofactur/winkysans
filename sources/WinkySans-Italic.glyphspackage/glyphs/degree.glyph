@@ -1,7 +1,6 @@
 {
 glyphname = degree;
 kernLeft = KO_degree;
-kernRight = KO_degree;
 layers = (
 {
 hints = (

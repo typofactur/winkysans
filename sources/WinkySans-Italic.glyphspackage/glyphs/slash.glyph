@@ -130,7 +130,6 @@ width = 365;
 note = slash;
 unicode = 47;
 userData = {
-KernOnName = slash;
 KernOnSpecialSpacing = {
 L = slash;
 R = slash;

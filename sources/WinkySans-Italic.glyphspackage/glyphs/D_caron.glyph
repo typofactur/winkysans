@@ -1,6 +1,6 @@
 {
 glyphname = Dcaron;
-kernLeft = KO_B;
+kernLeft = KO_D;
 kernRight = KO_D;
 layers = (
 {

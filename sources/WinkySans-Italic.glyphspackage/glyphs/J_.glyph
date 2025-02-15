@@ -248,7 +248,4 @@ metricLeft = "=O/4";
 metricRight = "=I";
 note = C;
 unicode = 74;
-userData = {
-KernOnName = J;
-};
 }

@@ -10,11 +10,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (322,0);
+pos = (331,0);
 ref = J;
 }
 );
-width = 839;
+width = 848;
 },
 {
 layerId = m005;
@@ -23,11 +23,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (336,0);
+pos = (334,0);
 ref = J;
 }
 );
-width = 860;
+width = 858;
 },
 {
 layerId = m002;
@@ -36,11 +36,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (350,0);
+pos = (362,0);
 ref = J;
 }
 );
-width = 937;
+width = 949;
 }
 );
 unicode = 306;

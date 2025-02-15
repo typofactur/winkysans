@@ -1,7 +1,7 @@
 {
 glyphname = y.salt;
 kernLeft = KO_u;
-kernRight = KO_u;
+kernRight = KO_g;
 layers = (
 {
 anchors = (

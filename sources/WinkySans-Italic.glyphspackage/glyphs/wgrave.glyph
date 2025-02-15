@@ -1,7 +1,6 @@
 {
 glyphname = wgrave;
 kernLeft = KO_w;
-kernRight = KO_w;
 layers = (
 {
 layerId = m003;

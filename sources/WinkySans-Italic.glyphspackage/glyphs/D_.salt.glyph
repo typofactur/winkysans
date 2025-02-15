@@ -1,7 +1,7 @@
 {
 glyphname = D.salt;
 kernLeft = KO_F;
-kernRight = KO_O;
+kernRight = KO_D;
 layers = (
 {
 hints = (

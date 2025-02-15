@@ -1,6 +1,5 @@
 {
 glyphname = braceright;
-kernLeft = KO_braceright;
 layers = (
 {
 hints = (

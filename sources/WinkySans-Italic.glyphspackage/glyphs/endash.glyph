@@ -135,7 +135,6 @@ metricRight = "=n";
 note = emdash;
 unicode = 8211;
 userData = {
-KernOnName = endash;
 KernOnSpecialSpacing = {
 L = dashes;
 R = dashes;

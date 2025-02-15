@@ -1,6 +1,6 @@
 {
 glyphname = cdotaccent;
-kernLeft = KO_e;
+kernLeft = KO_eacute;
 kernRight = KO_c;
 layers = (
 {

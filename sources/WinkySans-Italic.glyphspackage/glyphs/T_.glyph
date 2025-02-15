@@ -236,7 +236,4 @@ metricLeft = "=O/2";
 metricRight = "=O/2";
 note = I;
 unicode = 84;
-userData = {
-KernOnName = T;
-};
 }

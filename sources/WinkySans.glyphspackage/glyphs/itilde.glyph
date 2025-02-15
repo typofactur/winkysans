@@ -1,7 +1,7 @@
 {
 glyphname = itilde;
 kernLeft = KO_itilde;
-kernRight = KO_icircumflex;
+kernRight = KO_imacron;
 layers = (
 {
 layerId = m003;

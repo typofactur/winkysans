@@ -1,6 +1,6 @@
 {
 glyphname = adieresis;
-kernLeft = KO_a;
+kernLeft = KO_adieresis;
 kernRight = KO_a;
 layers = (
 {

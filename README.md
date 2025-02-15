@@ -109,6 +109,15 @@ Changelog example:
 **26 January 2025. Version 1.204**
 - italic angle eth
 
+**15 February 2025. Version 1.205**
+- kerning dcaron, lcaron, tcaron
+- size periodcentered, bullet
+- Ldot and ldot added
+- spacing period, comma, exclam, exclamdown italic
+- Hbar italic
+- Thorn thin
+- Germandbls thin
+
 
 ## License
 

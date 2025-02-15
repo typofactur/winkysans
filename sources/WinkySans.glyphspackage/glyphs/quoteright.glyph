@@ -27,7 +27,7 @@ pos = (0,600);
 ref = comma;
 }
 );
-width = 245;
+width = 235;
 },
 {
 hints = (

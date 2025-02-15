@@ -1,6 +1,6 @@
 {
 glyphname = semicolon;
-kernLeft = KO_semicolon;
+kernLeft = KO_colon;
 layers = (
 {
 hints = (
@@ -17,15 +17,14 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (-11,0);
 ref = comma;
 },
 {
-pos = (60,380);
+pos = (71,380);
 ref = period;
 }
 );
-width = 234;
+width = 235;
 },
 {
 hints = (
@@ -42,15 +41,14 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
-pos = (-11,0);
 ref = comma;
 },
 {
-pos = (54,340);
+pos = (65,340);
 ref = period;
 }
 );
-width = 234;
+width = 245;
 },
 {
 hints = (
@@ -67,15 +65,14 @@ type = Stem;
 layerId = m003;
 shapes = (
 {
-pos = (-11,0);
 ref = comma;
 },
 {
-pos = (64,397);
+pos = (75,397);
 ref = period;
 }
 );
-width = 234;
+width = 245;
 }
 );
 metricLeft = "=period";

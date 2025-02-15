@@ -1,7 +1,7 @@
 {
 glyphname = zcaron;
 kernLeft = KO_zcaron;
-kernRight = KO_z;
+kernRight = KO_zcaron;
 layers = (
 {
 layerId = m003;
