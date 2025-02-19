@@ -54,7 +54,7 @@ nodes = (
 );
 }
 );
-width = 442;
+width = 493;
 },
 {
 hints = (
@@ -109,7 +109,7 @@ nodes = (
 );
 }
 );
-width = 549;
+width = 575;
 },
 {
 hints = (
@@ -164,7 +164,7 @@ nodes = (
 );
 }
 );
-width = 461;
+width = 537;
 }
 );
 metricRight = "=L";
