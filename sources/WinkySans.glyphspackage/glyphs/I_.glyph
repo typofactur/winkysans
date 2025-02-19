@@ -104,19 +104,19 @@ width = 350;
 anchors = (
 {
 name = bottom;
-pos = (170,0);
+pos = (157,0);
 },
 {
 name = ogonek;
-pos = (258,10);
+pos = (245,10);
 },
 {
 name = top;
-pos = (170,625);
+pos = (157,625);
 },
 {
 name = topleft;
-pos = (80,667);
+pos = (67,667);
 }
 );
 hints = (

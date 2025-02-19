@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3340";
 .formatVersion = 3;
 axes = (
 {
@@ -802,6 +802,9 @@ weightClass = 900;
 );
 kerningLTR = {
 m003 = {
+"@MMK_L_KO_L" = {
+periodcentered.loclCAT.case = -140;
+};
 A = {
 V = -80;
 quotedblright = -80;
@@ -948,6 +951,9 @@ period = -76;
 };
 };
 m005 = {
+"@MMK_L_KO_L" = {
+periodcentered.loclCAT.case = -125;
+};
 A = {
 V = -80;
 };
@@ -1089,6 +1095,9 @@ comma = -40;
 };
 };
 m002 = {
+"@MMK_L_KO_L" = {
+periodcentered.loclCAT.case = -225;
+};
 A = {
 V = -70;
 period = 10;
