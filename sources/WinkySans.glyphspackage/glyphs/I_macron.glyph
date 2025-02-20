@@ -36,7 +36,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-80,125);
+pos = (-93,125);
 ref = macroncomb;
 }
 );

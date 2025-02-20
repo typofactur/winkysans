@@ -1,0 +1,353 @@
+{
+glyphname = .notdef;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (267,8);
+},
+{
+name = bottomleft;
+pos = (82,8);
+},
+{
+name = center;
+pos = (267,341);
+},
+{
+name = top;
+pos = (267,675);
+},
+{
+name = topright;
+pos = (390,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (305,74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (592,75);
+type = Stem;
+},
+{
+place = (70,100);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (675,-75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (370,-74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (83,-75);
+type = Stem;
+},
+{
+place = (402,-100);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(361,0,ls),
+(388,0,o),
+(414,12,o),
+(412,39,cs),
+(402,230,o),
+(402,446,o),
+(412,637,cs),
+(414,662,o),
+(391,675,o),
+(363,675,cs),
+(111,675,ls),
+(74,675,o),
+(58,665,o),
+(60,636,cs),
+(70,445,o),
+(70,229,o),
+(60,38,cs),
+(58,13,o),
+(81,0,o),
+(109,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(142,60,o),
+(140,62,o),
+(140,67,cs),
+(140,235,o),
+(140,428,o),
+(148,600,c),
+(206,607,o),
+(266,615,o),
+(325,615,cs),
+(330,615,o),
+(332,613,o),
+(332,608,cs),
+(332,440,o),
+(332,247,o),
+(324,75,c),
+(266,68,o),
+(206,60,o),
+(147,60,cs)
+);
+}
+);
+width = 472;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (268,0);
+},
+{
+name = bottomleft;
+pos = (83,0);
+},
+{
+name = center;
+pos = (268,333);
+},
+{
+name = top;
+pos = (268,667);
+},
+{
+name = topright;
+pos = (390,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (305,74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (592,75);
+type = Stem;
+},
+{
+place = (70,100);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (667,-75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (362,-74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (75,-75);
+type = Stem;
+},
+{
+place = (403,-100);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(361,0,ls),
+(409,0,o),
+(424,28,o),
+(423,49,cs),
+(413,239,o),
+(413,428,o),
+(423,618,cs),
+(425,649,o),
+(395,667,o),
+(364,667,cs),
+(109,667,ls),
+(78,667,o),
+(48,649,o),
+(50,618,cs),
+(60,428,o),
+(60,239,o),
+(50,49,cs),
+(48,18,o),
+(78,0,o),
+(109,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(154,80,o),
+(150,84,o),
+(150,90,cs),
+(150,251,o),
+(150,411,o),
+(158,573,c),
+(210,580,o),
+(260,586,o),
+(313,587,cs),
+(319,587,o),
+(323,583,o),
+(323,577,cs),
+(323,416,o),
+(323,256,o),
+(315,94,c),
+(263,87,o),
+(213,81,o),
+(160,80,cs)
+);
+}
+);
+width = 473;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (277,18);
+},
+{
+name = bottomleft;
+pos = (50,18);
+},
+{
+name = center;
+pos = (277,351);
+},
+{
+name = top;
+pos = (277,685);
+},
+{
+name = topright;
+pos = (475,667);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (305,74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (592,75);
+type = Stem;
+},
+{
+place = (70,100);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (685,-75);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (380,-74);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (93,-75);
+type = Stem;
+},
+{
+place = (455,-100);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(386,-13,ls),
+(435,-11,o),
+(505,29,o),
+(500,95,cs),
+(490,283,o),
+(490,420,o),
+(500,608,cs),
+(504,669,o),
+(450,713,o),
+(391,710,cs),
+(139,698,ls),
+(90,696,o),
+(20,656,o),
+(25,590,cs),
+(35,402,o),
+(35,265,o),
+(25,77,cs),
+(21,16,o),
+(75,-28,o),
+(134,-25,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(234,183,o),
+(225,201,o),
+(225,235,cs),
+(225,333,o),
+(226,405,o),
+(230,495,c),
+(239,496,o),
+(249,497,o),
+(258,498,cs),
+(291,502,o),
+(300,484,o),
+(300,450,cs),
+(300,352,o),
+(299,280,o),
+(295,190,c),
+(286,189,o),
+(276,188,o),
+(267,187,cs)
+);
+}
+);
+width = 525;
+}
+);
+}

@@ -6,9 +6,6 @@ layers = (
 layerId = m003;
 shapes = (
 {
-ref = H;
-},
-{
 closed = 1;
 nodes = (
 (39,514,ls),
@@ -34,7 +31,7 @@ nodes = (
 );
 },
 {
-pos = (-20,0);
+pos = (5,0);
 ref = H;
 }
 );
@@ -43,10 +40,6 @@ width = 582;
 {
 layerId = m005;
 shapes = (
-{
-pos = (-6,0);
-ref = H;
-},
 {
 closed = 1;
 nodes = (
@@ -73,7 +66,7 @@ nodes = (
 );
 },
 {
-pos = (-19,0);
+pos = (1,0);
 ref = H;
 }
 );
@@ -82,9 +75,6 @@ width = 623;
 {
 layerId = m002;
 shapes = (
-{
-ref = H;
-},
 {
 closed = 1;
 nodes = (
@@ -111,7 +101,7 @@ nodes = (
 );
 },
 {
-pos = (-19,0);
+pos = (-7,0);
 ref = H;
 }
 );
