@@ -12,7 +12,7 @@ fontbakery version: 0.13.2
 
 
 
-<details><summary>[8] WinkySans-Italic[wght].ttf</summary>
+<details><summary>[8] WinkySans[wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#interpolation-issues">interpolation_issues</a></summary>
@@ -25,27 +25,25 @@ fontbakery version: 0.13.2
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 point 44 in glyph 'eight' has a kink between location wght=300 and location wght=900
+<pre><code>- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
+- Contour 1 point 18 in glyph 'ampersand' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 12 in glyph 'H' has a kink between location wght=300 and location wght=900
+- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 21 in glyph 'H' has a kink between location wght=300 and location wght=900
-
-- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
-
-- Contour 1 point 12 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
-
-- Contour 1 point 21 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
+- Contour 0 point 19 in glyph 'H' has a kink between location wght=300 and location wght=900
 
 - Contour 0 point 26 in glyph 'numbersign' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 29 in glyph 'B.salt' has a kink between location wght=300 and location wght=900
+- Contour 1 point 19 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 63 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+- Contour 1 point 26 in glyph 'eth' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 84 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+- Contour 0 point 61 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -83,9 +81,9 @@ fontbakery version: 0.13.2
 
 
 * ⚠️ **WARN** <p>The following glyphs have overlapping path segments:</p>
-<pre><code>* oe (U+0153): L&lt;&lt;356.0,225.0&gt;--&lt;360.0,250.0&gt;&gt; has the same coordinates as a previous segment.
+<pre><code>* oe (U+0153): L&lt;&lt;360.0,225.0&gt;--&lt;360.0,250.0&gt;&gt; has the same coordinates as a previous segment.
 
-* germandbls (U+00DF): L&lt;&lt;419.0,525.0&gt;--&lt;519.0,525.0&gt;&gt; has the same coordinates as a previous segment.
+* germandbls (U+00DF): L&lt;&lt;375.0,525.0&gt;--&lt;475.0,525.0&gt;&gt; has the same coordinates as a previous segment.
 </code></pre>
  [code: overlapping-path-segments]
 
@@ -131,9 +129,9 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, math, cherokee</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, math, todhri, duployan, hebrew, malayalam, tifinagh, tai-le, old-permic, canadian-aboriginal, coptic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: duployan, todhri, malayalam, tai-le, coptic, syriac, tifinagh, hebrew, canadian-aboriginal, math, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -153,20 +151,20 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: telugu, yi, khmer, sogdian, brahmi, avestan, mandaic, dogra, newa, gunjala-gondi, oriya, lepcha, hatran, myanmar, masaram-gondi, syloti-nagri, tai-le, thaana, tirhuta, warang-citi, takri, hanifi-rohingya, hanunoo, pahawh-hmong, sharada, new-tai-lue, mongolian, kayah-li, tagalog, bengali, khudawadi, lao, sundanese, tai-viet, arabic, syriac, meetei-mayek, saurashtra, manichaean, tai-tham, bhaiksuki, duployan, nko, thai, tifinagh, hebrew, siddham, devanagari, kharoshthi, tagbanwa, rejang, zanabazar-square, buhid, gujarati, psalter-pahlavi, khojki, cham, tamil, limbu, kannada, phags-pa, grantha, batak, javanese, balinese, kaithi, malayalam, modi, buginese, chakma, sinhala, mahajani, gurmukhi, tibetan</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: telugu, yi, khmer, sogdian, brahmi, avestan, mandaic, dogra, newa, gunjala-gondi, oriya, lepcha, myanmar, syloti-nagri, masaram-gondi, tai-le, thaana, tifinagh, tirhuta, warang-citi, takri, hanifi-rohingya, hanunoo, pahawh-hmong, sharada, new-tai-lue, mongolian, kayah-li, tagalog, bengali, khudawadi, lao, old-hungarian, sundanese, tai-viet, arabic, syriac, meetei-mayek, saurashtra, manichaean, tai-tham, bhaiksuki, duployan, nko, thai, hebrew, siddham, devanagari, kharoshthi, tagbanwa, rejang, zanabazar-square, buhid, gujarati, psalter-pahlavi, khojki, cham, tamil, limbu, kannada, phags-pa, grantha, batak, javanese, balinese, kaithi, malayalam, modi, buginese, chakma, sinhala, mahajani, gurmukhi, tibetan</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, phags-pa, hebrew, thaana, arabic, syriac</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, phags-pa, hebrew, thaana, syriac</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: batak, kaithi, tamil, cham, myanmar, chakma, gujarati, mongolian, nko, tai-le, hanunoo, devanagari, bhaiksuki, khmer, khudawadi, tai-viet, thai, tifinagh, yi, manichaean, new-tai-lue, dogra, duployan, lepcha, limbu, saurashtra, mahajani, newa, psalter-pahlavi, mandaic, avestan, javanese, syriac, tagalog, sogdian, sundanese, syloti-nagri, buhid, masaram-gondi, warang-citi, khojki, rejang, takri, telugu, malayalam, tagbanwa, tibetan, grantha, gunjala-gondi, arabic, hebrew, siddham, oriya, balinese, thaana, zanabazar-square, kannada, kharoshthi, sharada, hanifi-rohingya, phags-pa, hatran, lao, bengali, brahmi, gurmukhi, meetei-mayek, modi, sinhala, tai-tham, tirhuta, buginese, pahawh-hmong, kayah-li</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: batak, kaithi, tamil, cham, myanmar, chakma, gujarati, mongolian, nko, tai-le, hanunoo, devanagari, bhaiksuki, khmer, khudawadi, tai-viet, thai, tifinagh, yi, manichaean, new-tai-lue, dogra, duployan, lepcha, limbu, saurashtra, mahajani, newa, psalter-pahlavi, mandaic, avestan, javanese, syriac, tagalog, sogdian, sundanese, syloti-nagri, buhid, masaram-gondi, warang-citi, khojki, rejang, takri, telugu, malayalam, tagbanwa, tibetan, grantha, gunjala-gondi, arabic, hebrew, siddham, oriya, balinese, thaana, zanabazar-square, kannada, old-hungarian, kharoshthi, sharada, hanifi-rohingya, phags-pa, lao, bengali, brahmi, gurmukhi, meetei-mayek, modi, sinhala, tai-tham, tirhuta, buginese, pahawh-hmong, kayah-li</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, phags-pa, syriac, arabic, hebrew, thaana</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, phags-pa, syriac, hebrew, thaana</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi, phags-pa</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: phags-pa, mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, sogdian, tagalog, mandaic, newa, oriya, myanmar, syloti-nagri, masaram-gondi, old-permic, tirhuta, osage, warang-citi, takri, hanunoo, pahawh-hmong, mongolian, kayah-li, sundanese, tai-viet, saurashtra, bhaiksuki, hebrew, siddham, buhid, gujarati, tamil, phags-pa, javanese, mende-kikakui, chakma, mahajani, gurmukhi, zanabazar-square, ahom, bassa-vah, gunjala-gondi, lepcha, thaana, miao, bengali, armenian, duployan, thai, soyombo, devanagari, kharoshthi, psalter-pahlavi, music, kannada, batak, wancho, tifinagh, tibetan, telugu, brahmi, khudawadi, coptic, syriac, meetei-mayek, manichaean, tai-tham, caucasian-albanian, tagbanwa, cham, math, balinese, kaithi, buginese, sharada, sinhala, yi, khmer, marchen, dogra, tai-le, hanifi-rohingya, new-tai-lue, lao, canadian-aboriginal, nko, symbols, rejang, adlam, khojki, limbu, grantha, malayalam, modi</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: yi, phags-pa, chinese-simplified, japanese, chinese-hongkong, nushu, chinese-traditional</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, tamil, gujarati, tai-le, armenian, khudawadi, yi, music, new-tai-lue, dogra, javanese, syriac, old-permic, telugu, tagbanwa, balinese, kannada, brahmi, sinhala, osage, soyombo, pahawh-hmong, hanunoo, miao, bassa-vah, lepcha, limbu, mahajani, psalter-pahlavi, mandaic, tagalog, elbasan, math, warang-citi, rejang, tibetan, takri, grantha, gunjala-gondi, zanabazar-square, kharoshthi, hanifi-rohingya, bengali, coptic, meetei-mayek, bhaiksuki, buginese, cham, chakma, mongolian, devanagari, tai-viet, khmer, tifinagh, duployan, ahom, syloti-nagri, wancho, hebrew, thaana, marchen, caucasian-albanian, modi, thai, tai-tham, kayah-li, batak, nko, myanmar, manichaean, saurashtra, newa, sogdian, sundanese, buhid, symbols, masaram-gondi, khojki, malayalam, siddham, mende-kikakui, oriya, sharada, phags-pa, lao, adlam, gurmukhi, tirhuta, canadian-aboriginal</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: chinese-simplified, chinese-traditional, phags-pa, japanese, nushu, yi, chinese-hongkong</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
@@ -355,7 +353,7 @@ definitions.</p>
 </div>
 </details>
 
-<details><summary>[8] WinkySans[wght].ttf</summary>
+<details><summary>[8] WinkySans-Italic[wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#interpolation-issues">interpolation_issues</a></summary>
@@ -368,25 +366,27 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 1 point 18 in glyph 'ampersand' has a kink between location wght=300 and location wght=900
+<pre><code>- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 67 in glyph 'three' has a kink between location wght=300 and location wght=900
+- Contour 0 point 29 in glyph 'B.salt' has a kink between location wght=300 and location wght=900
 
-- Contour 1 point 26 in glyph 'eth' has a kink between location wght=300 and location wght=900
+- Contour 0 point 44 in glyph 'eight' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 19 in glyph 'H' has a kink between location wght=300 and location wght=900
+- Contour 0 point 12 in glyph 'H' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
-
-- Contour 1 point 19 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
+- Contour 0 point 21 in glyph 'H' has a kink between location wght=300 and location wght=900
 
 - Contour 0 point 26 in glyph 'numbersign' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 71 in glyph 'k' has a kink between location wght=300 and location wght=900
+- Contour 1 point 12 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 61 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+- Contour 1 point 21 in glyph 'Hbar' has a kink between location wght=300 and location wght=900
 
-- Contour 0 point 20 in glyph 'a.salt' has a kink between location wght=300 and location wght=900
+- Contour 0 point 63 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 84 in glyph 'g.salt' has a kink between location wght=300 and location wght=900
+
+- Contour 0 point 20 in glyph 'six' has a kink between location wght=300 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -424,9 +424,9 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>The following glyphs have overlapping path segments:</p>
-<pre><code>* oe (U+0153): L&lt;&lt;360.0,225.0&gt;--&lt;360.0,250.0&gt;&gt; has the same coordinates as a previous segment.
+<pre><code>* oe (U+0153): L&lt;&lt;356.0,225.0&gt;--&lt;360.0,250.0&gt;&gt; has the same coordinates as a previous segment.
 
-* germandbls (U+00DF): L&lt;&lt;375.0,525.0&gt;--&lt;475.0,525.0&gt;&gt; has the same coordinates as a previous segment.
+* germandbls (U+00DF): L&lt;&lt;419.0,525.0&gt;--&lt;519.0,525.0&gt;&gt; has the same coordinates as a previous segment.
 </code></pre>
  [code: overlapping-path-segments]
 
@@ -472,9 +472,9 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, math, cherokee</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, math, todhri, duployan, hebrew, malayalam, tifinagh, tai-le, old-permic, canadian-aboriginal, coptic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: duployan, todhri, malayalam, tai-le, coptic, syriac, tifinagh, hebrew, canadian-aboriginal, math, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -494,20 +494,20 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: telugu, yi, khmer, sogdian, brahmi, avestan, mandaic, dogra, newa, gunjala-gondi, oriya, lepcha, hatran, myanmar, masaram-gondi, syloti-nagri, tai-le, thaana, tirhuta, warang-citi, takri, hanifi-rohingya, hanunoo, pahawh-hmong, sharada, new-tai-lue, mongolian, kayah-li, tagalog, bengali, khudawadi, lao, sundanese, tai-viet, arabic, syriac, meetei-mayek, saurashtra, manichaean, tai-tham, bhaiksuki, duployan, nko, thai, tifinagh, hebrew, siddham, devanagari, kharoshthi, tagbanwa, rejang, zanabazar-square, buhid, gujarati, psalter-pahlavi, khojki, cham, tamil, limbu, kannada, phags-pa, grantha, batak, javanese, balinese, kaithi, malayalam, modi, buginese, chakma, sinhala, mahajani, gurmukhi, tibetan</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: telugu, yi, khmer, sogdian, brahmi, avestan, mandaic, dogra, newa, gunjala-gondi, oriya, lepcha, myanmar, syloti-nagri, masaram-gondi, tai-le, thaana, tifinagh, tirhuta, warang-citi, takri, hanifi-rohingya, hanunoo, pahawh-hmong, sharada, new-tai-lue, mongolian, kayah-li, tagalog, bengali, khudawadi, lao, old-hungarian, sundanese, tai-viet, arabic, syriac, meetei-mayek, saurashtra, manichaean, tai-tham, bhaiksuki, duployan, nko, thai, hebrew, siddham, devanagari, kharoshthi, tagbanwa, rejang, zanabazar-square, buhid, gujarati, psalter-pahlavi, khojki, cham, tamil, limbu, kannada, phags-pa, grantha, batak, javanese, balinese, kaithi, malayalam, modi, buginese, chakma, sinhala, mahajani, gurmukhi, tibetan</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, phags-pa, hebrew, thaana, arabic, syriac</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, phags-pa, hebrew, thaana, syriac</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: batak, kaithi, tamil, cham, myanmar, chakma, gujarati, mongolian, nko, tai-le, hanunoo, devanagari, bhaiksuki, khmer, khudawadi, tai-viet, thai, tifinagh, yi, manichaean, new-tai-lue, dogra, duployan, lepcha, limbu, saurashtra, mahajani, newa, psalter-pahlavi, mandaic, avestan, javanese, syriac, tagalog, sogdian, sundanese, syloti-nagri, buhid, masaram-gondi, warang-citi, khojki, rejang, takri, telugu, malayalam, tagbanwa, tibetan, grantha, gunjala-gondi, arabic, hebrew, siddham, oriya, balinese, thaana, zanabazar-square, kannada, kharoshthi, sharada, hanifi-rohingya, phags-pa, hatran, lao, bengali, brahmi, gurmukhi, meetei-mayek, modi, sinhala, tai-tham, tirhuta, buginese, pahawh-hmong, kayah-li</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: batak, kaithi, tamil, cham, myanmar, chakma, gujarati, mongolian, nko, tai-le, hanunoo, devanagari, bhaiksuki, khmer, khudawadi, tai-viet, thai, tifinagh, yi, manichaean, new-tai-lue, dogra, duployan, lepcha, limbu, saurashtra, mahajani, newa, psalter-pahlavi, mandaic, avestan, javanese, syriac, tagalog, sogdian, sundanese, syloti-nagri, buhid, masaram-gondi, warang-citi, khojki, rejang, takri, telugu, malayalam, tagbanwa, tibetan, grantha, gunjala-gondi, arabic, hebrew, siddham, oriya, balinese, thaana, zanabazar-square, kannada, old-hungarian, kharoshthi, sharada, hanifi-rohingya, phags-pa, lao, bengali, brahmi, gurmukhi, meetei-mayek, modi, sinhala, tai-tham, tirhuta, buginese, pahawh-hmong, kayah-li</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, phags-pa, syriac, arabic, hebrew, thaana</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, phags-pa, syriac, hebrew, thaana</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi, phags-pa</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: phags-pa, mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, sogdian, tagalog, mandaic, newa, oriya, myanmar, syloti-nagri, masaram-gondi, old-permic, tirhuta, osage, warang-citi, takri, hanunoo, pahawh-hmong, mongolian, kayah-li, sundanese, tai-viet, saurashtra, bhaiksuki, hebrew, siddham, buhid, gujarati, tamil, phags-pa, javanese, mende-kikakui, chakma, mahajani, gurmukhi, zanabazar-square, ahom, bassa-vah, gunjala-gondi, lepcha, thaana, miao, bengali, armenian, duployan, thai, soyombo, devanagari, kharoshthi, psalter-pahlavi, music, kannada, batak, wancho, tifinagh, tibetan, telugu, brahmi, khudawadi, coptic, syriac, meetei-mayek, manichaean, tai-tham, caucasian-albanian, tagbanwa, cham, math, balinese, kaithi, buginese, sharada, sinhala, yi, khmer, marchen, dogra, tai-le, hanifi-rohingya, new-tai-lue, lao, canadian-aboriginal, nko, symbols, rejang, adlam, khojki, limbu, grantha, malayalam, modi</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: yi, phags-pa, chinese-simplified, japanese, chinese-hongkong, nushu, chinese-traditional</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, tamil, gujarati, tai-le, armenian, khudawadi, yi, music, new-tai-lue, dogra, javanese, syriac, old-permic, telugu, tagbanwa, balinese, kannada, brahmi, sinhala, osage, soyombo, pahawh-hmong, hanunoo, miao, bassa-vah, lepcha, limbu, mahajani, psalter-pahlavi, mandaic, tagalog, elbasan, math, warang-citi, rejang, tibetan, takri, grantha, gunjala-gondi, zanabazar-square, kharoshthi, hanifi-rohingya, bengali, coptic, meetei-mayek, bhaiksuki, buginese, cham, chakma, mongolian, devanagari, tai-viet, khmer, tifinagh, duployan, ahom, syloti-nagri, wancho, hebrew, thaana, marchen, caucasian-albanian, modi, thai, tai-tham, kayah-li, batak, nko, myanmar, manichaean, saurashtra, newa, sogdian, sundanese, buhid, symbols, masaram-gondi, khojki, malayalam, siddham, mende-kikakui, oriya, sharada, phags-pa, lao, adlam, gurmukhi, tirhuta, canadian-aboriginal</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: chinese-simplified, chinese-traditional, phags-pa, japanese, nushu, yi, chinese-hongkong</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
@@ -703,8 +703,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 0 | 16 | 175 | 13 | 251 | 0 | 
-| 0% | 0% | 0% | 4% | 38% | 3% | 55% | 0% | 
+| 0 | 0 | 0 | 16 | 173 | 13 | 253 | 0 | 
+| 0% | 0% | 0% | 4% | 38% | 3% | 56% | 0% | 
 
 
 
